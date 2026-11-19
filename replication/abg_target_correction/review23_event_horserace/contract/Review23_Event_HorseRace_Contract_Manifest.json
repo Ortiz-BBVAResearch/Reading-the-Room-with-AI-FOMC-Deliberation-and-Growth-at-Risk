@@ -1,0 +1,144 @@
+{
+  "blocks": [
+    "ALL19",
+    "LOWER",
+    "CENTER",
+    "UPPER"
+  ],
+  "central_sha256": "f4e51be91f0ffd15c42abe3ec07f468cb06f073e9c59f0a0e5c46bceeb364e4a",
+  "clock_sha256": "e74a82675f346a764deb78def818d2559e29b6446717ba2e0c37755b0ec7b46b",
+  "contract_rows": 416,
+  "event_N": {
+    "BANKING23": 2,
+    "CHINA_OIL": 4,
+    "COVID": 3,
+    "EURO": 11,
+    "GFC": 5,
+    "INFLATION": 3,
+    "NON_EVENT": 38,
+    "UKRAINE": 4
+  },
+  "events": [
+    "GFC",
+    "EURO",
+    "CHINA_OIL",
+    "INFLATION",
+    "UKRAINE",
+    "BANKING23",
+    "COVID",
+    "NON_EVENT"
+  ],
+  "external_sha256": "b5e5f4a1e98e48cfea444e3d719a9757ae8fdc5f45ebbfb4f64e4953b0eb3f8f",
+  "lambda_selection": false,
+  "new_forecasts": false,
+  "new_losses": false,
+  "performance_accessed": false,
+  "reestimation": false,
+  "signals": [
+    {
+      "benchmark": "M2",
+      "display": "HD",
+      "family": "DELIBERATION",
+      "measure": "Hidden Dissent",
+      "role": "MAIN",
+      "source": "CENTRAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "QDisc",
+      "family": "DELIBERATION",
+      "measure": "Quantifier discount",
+      "role": "MAIN",
+      "source": "CENTRAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "BoR",
+      "family": "DELIBERATION",
+      "measure": "Balance of risks",
+      "role": "MAIN",
+      "source": "CENTRAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "Salience",
+      "family": "DELIBERATION",
+      "measure": "Salience of growth",
+      "role": "MAIN",
+      "source": "CENTRAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "Insurance",
+      "family": "DELIBERATION",
+      "measure": "Insurance motive",
+      "role": "MAIN",
+      "source": "CENTRAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "SPF",
+      "family": "PUBLIC_EXTERNAL",
+      "measure": "SPF dispersion",
+      "role": "MAIN",
+      "source": "EXTERNAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "GPR",
+      "family": "PUBLIC_EXTERNAL",
+      "measure": "Geopolitical risk (GPR)",
+      "role": "MAIN",
+      "source": "EXTERNAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "EPU",
+      "family": "PUBLIC_EXTERNAL",
+      "measure": "Economic policy uncertainty (EPU)",
+      "role": "MAIN",
+      "source": "EXTERNAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "NFCI",
+      "family": "FINANCIAL_MARKET",
+      "measure": "NFCI",
+      "role": "MAIN",
+      "source": "CENTRAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "VIX",
+      "family": "FINANCIAL_MARKET",
+      "measure": "VIX",
+      "role": "MAIN",
+      "source": "EXTERNAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "Oil",
+      "family": "FINANCIAL_MARKET",
+      "measure": "Oil price",
+      "role": "MAIN",
+      "source": "EXTERNAL"
+    },
+    {
+      "benchmark": "M2",
+      "display": "Verbosity",
+      "family": "TEXT_PLACEBO",
+      "measure": "Verbosity",
+      "role": "PLACEBO",
+      "source": "CENTRAL"
+    },
+    {
+      "benchmark": "M2+NFCI",
+      "display": "HD|M3",
+      "family": "CONDITIONED",
+      "measure": "Hidden Dissent added to M2+NFCI",
+      "role": "CONDITIONED",
+      "source": "CENTRAL"
+    }
+  ],
+  "status": "REVIEW23_EVENT_HORSERACE_CONTRACT_FROZEN"
+}

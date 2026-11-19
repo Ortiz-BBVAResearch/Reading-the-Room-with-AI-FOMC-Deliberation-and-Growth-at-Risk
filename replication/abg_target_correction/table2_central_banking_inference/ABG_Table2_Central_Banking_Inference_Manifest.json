@@ -1,0 +1,22 @@
+{
+  "HAC_lag": 3,
+  "HLN_horizon": 4,
+  "MBB_B": 10000,
+  "MBB_block_length": 4,
+  "MBB_seed": 20260915,
+  "SEP_multiplicity_family": "SEPARATE",
+  "detail_sha256": "5cd87cd36e424132e681de16475a9fe35c92fecccad26872037633b7f84145fb",
+  "inference_accessed": true,
+  "inference_unit": "target-level loss differential after averaging across taus within each block",
+  "lambda_selection": false,
+  "n_blocks": 4,
+  "n_inference_rows": 40,
+  "n_measures": 10,
+  "new_forecasts": false,
+  "primary_status": "SECONDARY; ABG-6 HD endpoints remain primary",
+  "re_estimation": false,
+  "status": "TABLE2_CENTRAL_BANKING_SECONDARY_INFERENCE",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "target_differentials_sha256": "f4e51be91f0ffd15c42abe3ec07f468cb06f073e9c59f0a0e5c46bceeb364e4a",
+  "window_selection": false
+}

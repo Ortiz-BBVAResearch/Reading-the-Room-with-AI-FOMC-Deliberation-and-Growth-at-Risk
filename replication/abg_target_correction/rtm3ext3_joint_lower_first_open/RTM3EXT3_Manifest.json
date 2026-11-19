@@ -1,0 +1,35 @@
+{
+  "availability_selection": false,
+  "bootstrap_lengths": [
+    4,
+    6,
+    8
+  ],
+  "bootstrap_reps": 10000,
+  "comparison": "REALTIME_M3_PLUS_EXTERNAL_VS_REALTIME_M3",
+  "hac_lag": 3,
+  "horizon": 4,
+  "lambda_selection": false,
+  "mbb_sha256": "08c324e766b6b05472b76cc4cae404aa256d9f7306968a5be4016c3292be4237",
+  "n_origins": 70,
+  "new_forecasts": false,
+  "per_tau_sha256": "80b2b867c33531cec8e211520e1f58d553a44eb593639eef087e8a88ec0800cd",
+  "re_estimation": false,
+  "result_sha256": "afa675c32db3398db0676fd9247d5d4cee3f79696eae01128b680534076564b4",
+  "seed": 20260917,
+  "signals": [
+    "SPF",
+    "GPR",
+    "EPU",
+    "OIL"
+  ],
+  "status": "RTM3EXT3_JOINT_LOWER_FIRST_OPEN_COMPLETE",
+  "target_sha256": "ffd283149e091fdf834fff25405024e83a66c7441d684959a4b016a42a8870fe",
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "contract_sha256": "cba25ada42e6e2c0932072f0f60ce9b1a2f65cb2beeff91a05e3dbcc30ae13b2",
+  "dependent_contract": "Y4[t+4]=mean(g[t+1:t+4])",
+  "detail_sha256": "cd39bf87cfbcc5d324dc92aa1e5dbce5df502bb27409ff29ba8f01900990f695",
+  "elapsed_seconds": 1031.82155418396,
+  "experiment_family": "EXTERNAL_BENCHMARK_EXTENSION",
+  "focal_module_sha256": "c7d87a55d3a780eca0c866e24584913f911299c9170a67562f250dbef3411a6f",
+  "gdp_regressor_contract": "GDP_GROWTH_CURRENT[t]=g[t]",
+  "lambda_selection": false,
+  "lambda_vector_sha256": "746074bbd1a756c5274cbf5c8328ba690919c118bf41d6ead167610394ca5ed3",
+  "loss_computed": false,
+  "mean_module_sha256": "96b800b92f36aff3ec408d45e5da82a30b192b3c331f5a49ef8335def35d6796",
+  "model": "ABG10_PUBLIC_OIL",
+  "model_ranking": false,
+  "n_mean_fallback": 2,
+  "n_origins": 70,
+  "sealed_engine_sha256": "ae47f2a525e0e78e9899e417fb1d2a4e4b9fc1b63a4ca7dbe2bc09346363bd2b",
+  "signal_recovery_contract": "ABG10_VIX_OIL",
+  "status": "SEALED_COMPLETE",
+  "sum_module_sha256": "097d3350a11d7603acd26e4e4521af08071b1e3783a75c21e977982576fa347c",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "tau": 0.6
+}

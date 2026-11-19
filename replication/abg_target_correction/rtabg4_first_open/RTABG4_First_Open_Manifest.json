@@ -1,0 +1,14 @@
+{
+  "availability_selection": false,
+  "detail_sha256": "18603c783a99f093cca4423b71dace7d2f329deab55b88adabd6e2af1af39cae",
+  "forecasts": 5320,
+  "gdp_regressor_contract": "GDP_GROWTH_CURRENT[t]=g[t]",
+  "jobs": 76,
+  "lambda_selection": false,
+  "new_forecasts": false,
+  "performance_accessed": true,
+  "re_estimation": false,
+  "status": "RTABG4_FIRST_OPEN_COMPLETE",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "tau_sha256": "6458441a133ecb416303772fdf062d36980e1074583742f01ff3fec7952aa7e0"
+}

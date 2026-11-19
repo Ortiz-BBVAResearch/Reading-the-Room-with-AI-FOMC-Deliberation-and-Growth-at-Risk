@@ -1,0 +1,13 @@
+{
+  "tau": 0.6,
+  "horizon": 4,
+  "lambda_star": 500.0,
+  "n_validation": 23,
+  "validation_start": "2002Q1",
+  "validation_end": "2007Q3",
+  "n_min": 24,
+  "development_start": "1994Q2",
+  "development_end": "2007Q3",
+  "design_sha256": "d6d17f0bf0139d9378544e8b6033cbb3a7c2744caebf8976b2b0fef07cf008e8",
+  "elapsed_seconds": 17.250797033309937
+}

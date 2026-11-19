@@ -1,0 +1,27 @@
+{
+  "aggregate_output_sha256": "d98adb4a5fe2f105d7d690718eb355845a895f4d3b2a1e9eaaac834f78dd352d",
+  "benchmark": "R2",
+  "blocks": [
+    "ALL19",
+    "LOWER",
+    "CENTER",
+    "UPPER"
+  ],
+  "challenger": "R2_HD",
+  "endpoint_selection": false,
+  "event_N": 32,
+  "event_clock_sha256": "e74a82675f346a764deb78def818d2559e29b6446717ba2e0c37755b0ec7b46b",
+  "event_variant": "ORIGINAL",
+  "lambda_selection": false,
+  "new_forecasts": false,
+  "non_event_N": 38,
+  "performance_accessed": true,
+  "primary_pre_stated_prediction": "HD gain EVENT > NON_EVENT, with particular relevance for CENTER",
+  "re_estimation": false,
+  "status": "ABG_EVENT2_FIRST_OPEN_COMPLETE",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "target_output_sha256": "04c63564ae403a8408dbcc3351b5a2f4d0d2470c0222a772b5c75b3fbd0ae53f",
+  "tau_output_sha256": "1969410d9e06a3fea12e7df56b1fe0b95a5f299482be242d4d1790effb7d7b44",
+  "window_output_sha256": "0c956cf4c38b6ed21e0c5b881df427c9bbc8ef5d3806cb98d2267db8997972c6",
+  "window_selection": false
+}

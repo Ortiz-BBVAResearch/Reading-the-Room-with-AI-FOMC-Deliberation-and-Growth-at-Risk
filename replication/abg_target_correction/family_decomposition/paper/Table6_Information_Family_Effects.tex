@@ -1,0 +1,42 @@
+\begin{table}[!htbp]
+\centering
+\caption{Family effects of the public information set on the contribution of the deliberative signal}
+\label{tab:information_family_effects}
+\begin{tabular}{lccccc}
+\toprule
+& \multicolumn{2}{c}{Full grid}
+& \multicolumn{3}{c}{By block (point estimates)} \\
+\cmidrule(lr){2-3}
+\cmidrule(lr){4-6}
+Family removed
+& $\Delta_j$
+& 95\% interval
+& Lower
+& Center
+& Upper \\
+\midrule
+Real activity & +0.272 & [-0.499, +1.173] & +1.304 & -0.052 & +0.093 \\
+Credit / rates & +0.222 & [-0.554, +1.110] & +1.280 & -0.089 & -0.013 \\
+Nominal & +0.214 & [-0.725, +1.206] & +1.280 & -0.101 & -0.023 \\
+Markets & +0.226 & [-0.561, +1.124] & +1.292 & -0.094 & +0.007 \\
+\bottomrule
+\end{tabular}
+
+\begin{minipage}{0.96\textwidth}
+\footnotesize
+\textit{Notes:}
+$\Delta_j$ is the change in the contribution of Hidden
+Dissent when public-information family $j$ is removed,
+expressed in percentage points of relative pinball loss
+using the full-public-panel M2 loss as the common
+denominator. Positive values indicate that HD becomes
+more valuable when the family is removed; negative
+values indicate that its contribution declines.
+The 95 percent intervals are moving-block-bootstrap
+percentile intervals with block length $L=4$.
+The Lower, Center, and Upper columns report point
+estimates for Q05--Q25, Q30--Q70, and Q75--Q95,
+respectively. No new forecasts, re-estimation, or
+penalty selection is performed.
+\end{minipage}
+\end{table}

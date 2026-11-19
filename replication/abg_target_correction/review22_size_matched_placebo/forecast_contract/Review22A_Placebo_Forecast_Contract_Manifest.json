@@ -1,0 +1,39 @@
+{
+  "K": 40,
+  "arms": [
+    "BENCHMARK",
+    "PLUS_HD"
+  ],
+  "contract_sha256": "8d8b03ff15bf8fd0216c6816884654fe5f0e8a4986021ee712d4e24fb4e2bff3",
+  "draw_manifest_sha256": "b00e49a67e0796fdef45ff5f12ca515833e70d67783e3dc73dce05db19a1a061",
+  "draw_table_sha256": "703c0fb3099c824adaae1a4f478ec27ccf5977172f9bdbac806d59dbdc0ed6c5",
+  "fixed_lambda": 0.5623413251903491,
+  "forecasts_generated": false,
+  "jobs": 1600,
+  "lambda_selection": false,
+  "losses_computed": false,
+  "performance_accessed": false,
+  "planned_forecasts": 112000,
+  "review21_m3_contract_sha256": "bc1d578fb1c91938e4f30d12f70bf8edae2af19cb8652635bfc17a109c972190",
+  "sampling": "WITHOUT_REPLACEMENT",
+  "scientific_object": "SIZE_MATCHED_RANDOM_SUBSET_PLACEBO_M3_LOWER",
+  "sizes": [
+    4,
+    23,
+    34,
+    62
+  ],
+  "status": "REVIEW22A_PLACEBO_FORECAST_CONTRACT_FROZEN",
+  "stratification": false,
+  "subsets": 160,
+  "targets_per_job": 70,
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25
+  ],
+  "universe_sha256": "f73c9e3fedcafffebd790de044ae122867fa851757fbe6fdadb423ff4ad7611c",
+  "use_nfci": true
+}

@@ -1,0 +1,23 @@
+{
+  "blocks": 4,
+  "cell_level_inference": false,
+  "definition_loss": "mean_d_event-minus-mean_d_non_event",
+  "definition_pp": "-100*delta_loss/full_sample_benchmark_mean_loss",
+  "event_selection": false,
+  "events_contrasted": 7,
+  "interpretation": "specialization_pp>0 means relatively more useful in event than NON_EVENT",
+  "lambda_selection": false,
+  "new_forecasts": false,
+  "new_losses": false,
+  "output_sha256": "8dca4a413e267108b7f7d55a506cbfa113b4670cb916fa07ba738424a1133f20",
+  "reestimation": false,
+  "rows": 364,
+  "scientific_status": "POST_REVIEW23D_PREDEFINED_TRANSFORMATION",
+  "signal_selection": false,
+  "signals": 13,
+  "source_first_open_sha256": "a8db3f72f99a2aa2f13321a19cc19cbde8338cf54906c940fd69d200f176dfd6",
+  "source_reconstruction_sha256": "be0b6e2297c90b3a14091e0c16888d1e035d2b1d024815736673924acfa5dc3b",
+  "source_target_sha256": "26a2315a38e9b578f637e32581cbfe16d53d9eebf7643e60a089d81a3c4583bb",
+  "status": "REVIEW23_EVENT_VS_NONEVENT_COMPLETE",
+  "target": "CORRECTED_ABG_TARGET_CURRENT_PAPER"
+}

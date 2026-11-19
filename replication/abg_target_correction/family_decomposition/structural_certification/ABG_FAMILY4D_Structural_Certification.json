@@ -1,0 +1,14 @@
+{
+  "arms": 2,
+  "contract_sha256": "60978697f39d4171559fbd99fb136917e756bc17cd51e94fa0aabcab78df23ba",
+  "fallback_total": 196,
+  "families": 4,
+  "gains_computed": false,
+  "jobs": 152,
+  "losses_computed": false,
+  "origins_per_job": 70,
+  "performance_accessed": false,
+  "sealed_forecasts": 10640,
+  "status": "FAMILY4D_STRUCTURAL_CERTIFIED",
+  "taus": 19
+}

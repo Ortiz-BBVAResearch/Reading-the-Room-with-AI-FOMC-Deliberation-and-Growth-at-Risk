@@ -1,0 +1,22 @@
+{
+  "contract_sha256": "d0d8439438301eeaa830235b27782a2289fcc60814d8f3841ec3d980594873bb",
+  "data_arms": [
+    "FINAL_MATCHED",
+    "REALTIME_MATCHED"
+  ],
+  "fallback_total": 159,
+  "gains_computed": false,
+  "hd_states": [
+    0,
+    1
+  ],
+  "jobs": 76,
+  "losses_computed": false,
+  "nfci_bridge_sha256": "71d8b8e92bffefd536b2c618c3906bba32fda3af99d2bb1508795815c47277d0",
+  "origins_per_job": 70,
+  "performance_accessed": false,
+  "sealed_forecasts": 5320,
+  "status": "RTNFCI4_STRUCTURAL_CERTIFIED",
+  "taus": 19,
+  "worker_sha256": "e31292ac1d35a08843fb8fc8f641cf45f51f6ebad0a7ee9671871a133d9c528a"
+}

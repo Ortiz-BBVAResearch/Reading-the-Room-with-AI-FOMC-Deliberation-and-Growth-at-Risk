@@ -1,0 +1,24 @@
+{
+  "HAC_lag": 3,
+  "MBB_lengths": [
+    4,
+    6,
+    8
+  ],
+  "MBB_reps": 10000,
+  "confirmatory": false,
+  "contrast": "mean(CREDIT_RATES,MARKETS)-mean(REAL,NOMINAL)",
+  "horizon": 4,
+  "lambda_selection": false,
+  "loss_estimand": "delta_reduced_minus_full",
+  "mbb_sha256": "c62e9a6460e4d329a85c6d70b020ac1c8a1e457c4e5480d146b41ad3498f31c5",
+  "new_forecasts": false,
+  "new_losses": false,
+  "presentation_transform": "-100*C_loss/FULL_M3_benchmark_mean_loss",
+  "reestimation": false,
+  "result_sha256": "71fbb41f1f8d3e8c83186205fb2f47b2e8d06e1d07c1632fbf6e9fdd7c2f7936",
+  "seed": 20260918,
+  "source_sha256": "c63dee3de531fe889bd83461324103fdef34f3211b48377321b3c1ac25da1e21",
+  "status": "EXPLORATORY_POST_REVIEW21_FIRST_OPEN",
+  "target_sha256": "f655340e95404b9892fedca1aecb792e2e6f387388f0f0dbc1a18e5d96954ad2"
+}

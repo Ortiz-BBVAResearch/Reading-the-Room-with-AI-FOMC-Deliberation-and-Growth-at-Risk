@@ -1,0 +1,26 @@
+{
+  "blocks": [
+    "ALL19",
+    "LOWER",
+    "CENTER",
+    "UPPER"
+  ],
+  "differentials_sha256": "42975f2cd1a79b84864babb43aacd10ab2588922130c79277ee06c16ccc29990",
+  "families": [
+    "REAL",
+    "NOMINAL",
+    "CREDIT_RATES",
+    "MARKETS"
+  ],
+  "full_information_endpoint": "HD|M2",
+  "lambda_selection": false,
+  "main_sha256": "15905b3172f5fc6f637dd2308cf7b5ce43ec9a9d752c25d85fee1ae8f01a85e1",
+  "n_targets": 70,
+  "n_taus": 19,
+  "new_forecasts": false,
+  "performance_accessed": true,
+  "primary_authority_sha256": "ee1c103d668220e778eabab42ef1732c23c16877691090bd0539dda72bacf096",
+  "reestimation": false,
+  "status": "FAMILY5_FIRST_OPEN_COMPLETE",
+  "tau_sha256": "719800740768a5ee687d0fc1b2561cfabd6375d871ced5408dda8276c4d802f6"
+}

@@ -1,0 +1,39 @@
+{
+  "K": 40,
+  "draw_table_sha256": "703c0fb3099c824adaae1a4f478ec27ccf5977172f9bdbac806d59dbdc0ed6c5",
+  "family_sha256": "363f161508d01880bbed6579627d85e50821921c398c97bcb01e834afaa711bf",
+  "forecasts_generated": false,
+  "lambda_selection": false,
+  "losses_computed": false,
+  "performance_accessed": false,
+  "rng": "numpy.random.default_rng",
+  "rng_stream": "SINGLE_STREAM_SIZE_ORDER_4_23_34_62_DRAW_ORDER_1_40",
+  "sampling": "WITHOUT_REPLACEMENT_WITHIN_SUBSET",
+  "seed": 20260919,
+  "size_match": {
+    "4": "MARKETS",
+    "23": "NOMINAL",
+    "34": "CREDIT_RATES",
+    "62": "REAL"
+  },
+  "sizes": [
+    4,
+    23,
+    34,
+    62
+  ],
+  "source": "outputs/sa6/abg_target_correction/review21_family_identification/fixed_lambda_m3_lower/contract/Review21_FixedLambda_M3_Lower_Contract.csv",
+  "source_sha256": "bc1d578fb1c91938e4f30d12f70bf8edae2af19cb8652635bfc17a109c972190",
+  "status": "REVIEW22A_SIZE_MATCHED_PLACEBO_DRAW_CONTRACT_FROZEN",
+  "stratification": false,
+  "structural_family_sizes": {
+    "CREDIT_RATES": 34,
+    "MARKETS": 4,
+    "NOMINAL": 23,
+    "REAL": 62
+  },
+  "total_subsets": 160,
+  "universe_N": 123,
+  "universe_definition": "union_of_all_Review21_M3_lower_nuisance_supports",
+  "universe_sha256": "f73c9e3fedcafffebd790de044ae122867fa851757fbe6fdadb423ff4ad7611c"
+}

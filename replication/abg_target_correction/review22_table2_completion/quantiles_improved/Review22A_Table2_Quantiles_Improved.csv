@@ -1,0 +1,11 @@
+measure,quantiles_total,quantiles_improved,display,N,constant_N_across_taus,per_tau_rows
+SEP risk weighting,19,12,12 of 19,45,True,19
+SEP uncertainty,19,12,12 of 19,45,True,19
+Hidden Dissent,19,15,15 of 19,70,True,19
+Quantifier discount,19,5,5 of 19,70,True,19
+Balance of risks,19,12,12 of 19,70,True,19
+Salience of growth,19,2,2 of 19,70,True,19
+Insurance motive,19,3,3 of 19,70,True,19
+Verbosity,19,7,7 of 19,70,True,19
+NFCI,19,9,9 of 19,70,True,19
+Hidden Dissent added to M2+NFCI,19,16,16 of 19,70,True,19

@@ -1,0 +1,2 @@
+tau,lambda_star,best_mean_pinball,second_best_lambda,second_best_mean_pinball,second_best_gap_pct,n_validation,n_min,validation_start,validation_end,design_sha256
+0.8,150.0,0.32737035785918084,125.0,0.32959899613612026,0.6807697225593269,23,24,2002Q1,2007Q3,d6d17f0bf0139d9378544e8b6033cbb3a7c2744caebf8976b2b0fef07cf008e8

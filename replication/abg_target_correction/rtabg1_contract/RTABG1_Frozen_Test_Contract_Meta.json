@@ -1,0 +1,31 @@
+{
+  "contract_sha256": "d0d8439438301eeaa830235b27782a2289fcc60814d8f3841ec3d980594873bb",
+  "dependent_contract": "Y4[t+4]=mean(g[t+1:t+4])",
+  "forecasts_estimated": false,
+  "gdp_regressor_contract": "GDP_GROWTH_CURRENT[t]=g[t]",
+  "lambda_changed_blocks": [
+    "UPPER"
+  ],
+  "lambda_changed_rows": 1400,
+  "lambda_map": {
+    "CENTER": 100.0,
+    "LOWER": 0.5623413251903491,
+    "UPPER": 100.0
+  },
+  "lambda_selection": false,
+  "lambda_sha256": "746074bbd1a756c5274cbf5c8328ba690919c118bf41d6ead167610394ca5ed3",
+  "lambda_source": "outputs/sa6/abg_target_correction/abg3_validation/selection/ABG3_Frozen_Block_Lambdas.csv",
+  "models": 4,
+  "old_contract_sha256": "34e60035a8dd3843c8208a37ae55cba63dac52546c67349f307b26b8959120b8",
+  "origins": 70,
+  "performance_accessed": false,
+  "realtime_information_set": "INHERITED_UNCHANGED_FROM_RT0W",
+  "rows": 5320,
+  "rt_design_sha256": "69eb452ffd79709700d182815d61ed28f9098967d337a7b9817f6d40bc88412d",
+  "rt_manifest_sha256": "6d639c7440f8ad533347fa7e0cc2f66cb9660271d0696786ec7d5b44b7914376",
+  "rt_origin_summary_sha256": "1ddae9a9b0de565cc2d0d92bfdbfc1e9fc8776fe633fb546f1f858ddb5ec450b",
+  "status": "RTABG1_CONTRACT_FROZEN",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "targets": 70,
+  "taus": 19
+}

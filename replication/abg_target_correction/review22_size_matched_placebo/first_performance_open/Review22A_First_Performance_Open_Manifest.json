@@ -1,0 +1,32 @@
+{
+  "distribution_output_sha256": "42bceadd41f810afb0ed08bed474ed673aa17b1b4f4f495a264d74952fc1e6da",
+  "draws_per_size": 40,
+  "estimand": "delta_reduced_minus_full",
+  "family_comparison_sha256": "ff572c99e1d9c51f0c6bcf7a2ad790ef7a27ffdb4938aa6adb5e29bdeb593399",
+  "full_M3_benchmark_mean_loss": 0.4263646665939438,
+  "full_M3_gain_percent": 4.494856049009943,
+  "full_M3_mean_d": -0.0191644780072389,
+  "lambda_selection": false,
+  "model_selection": false,
+  "new_forecasts": false,
+  "presentation_transform": "-100*mean(delta)/FULL_M3_benchmark_mean_loss",
+  "re_estimation": false,
+  "review21_witness_gate": true,
+  "sizes": [
+    4,
+    23,
+    34,
+    62
+  ],
+  "status": "REVIEW22A_FIRST_PERFORMANCE_OPEN_COMPLETE",
+  "subset_output_sha256": "2a3c9690be272b5dc60948f075f8d5d5de6ddad31c6701da2ae7cf2cd8404ad6",
+  "subsets": 160,
+  "targets": 70,
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25
+  ]
+}

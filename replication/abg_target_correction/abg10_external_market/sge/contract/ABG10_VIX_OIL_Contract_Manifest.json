@@ -1,0 +1,20 @@
+{
+  "contract_sha256": "cba25ada42e6e2c0932072f0f60ce9b1a2f65cb2beeff91a05e3dbcc30ae13b2",
+  "dependent": "Y4[t+4]=mean(g[t+1:t+4])",
+  "experiment_family": "EXTERNAL_BENCHMARK_EXTENSION",
+  "forecast_estimated": false,
+  "gdp_regressor": "GDP_GROWTH_CURRENT[t]=g[t]",
+  "important_design_note": "M2 nuisance set is inherited unchanged; therefore FRED-MD VIXCLSx and OILPRICEx remain in the public benchmark.",
+  "lambda_selected": false,
+  "loss_computed": false,
+  "models": 2,
+  "oil_bridge_sha256": "ce0a609e95f6a4c148d20cee2cd77cae77788282ec8decac19a84efa78887380",
+  "origins_per_model_tau": 70,
+  "performance_accessed": false,
+  "rows": 2660,
+  "source_contract_sha256": "5dc15b4d1717893c433080b296aa41a1684f113c62c1ad2f2ac8f68de5a69147",
+  "status": "ABG10_VIX_OIL_CONTRACT_FROZEN",
+  "target": "ABG_H4_AVERAGE_NEXT4",
+  "taus_per_model": 19,
+  "vix_bridge_sha256": "8a9caa2d9b7c8d09ae16fb164de28aeb6094ae9e9d8da79e9621b41daad5d4ef"
+}

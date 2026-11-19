@@ -1,0 +1,23 @@
+{
+  "alternative_source_sha256": "603a05e3f0b533e12617727ad495f2ddc7df7b7bc352f7f527c7c511cfc7430e",
+  "bootstrap_lengths": [
+    4,
+    6,
+    8
+  ],
+  "bootstrap_reps": 10000,
+  "common_benchmark": "REALTIME_MATCHED_M2",
+  "contrast": "HD_d_MINUS_ALTERNATIVE_d",
+  "hac_lag": 3,
+  "hd_source_sha256": "92388793060f8bb67c185a0bd2e9c42e80d274931d00db0eaa0c0a7ab3e4a932",
+  "horizon": 4,
+  "mbb_sha256": "f7c71ec7e79ada49e15c26abbd1ac392668d56abafd456c77116be47ae0a4139",
+  "negative_delta": "HD_LOWER_INCREMENTAL_PINBALL_LOSS",
+  "new_forecasts": false,
+  "new_losses": false,
+  "paired_sha256": "a5c96ddcced4decc889f9986f0c905a684566ac87f3e04ccb17f99b578018b10",
+  "re_estimation": false,
+  "results_sha256": "65da7ffc32c9cdf5c9b796769703f37c4ba0f1ceb3536a9ed2de2069e3f836ee",
+  "seed": 20260917,
+  "status": "RTCB8_HD_PAIRED_HORSERACE_COMPLETE"
+}

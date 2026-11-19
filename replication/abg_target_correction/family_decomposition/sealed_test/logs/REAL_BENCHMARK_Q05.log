@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "/Users/e021661/Documents/ScenarioLab/scripts/sa6_abg_family4b_test_worker.py", line 814, in <module>
+    main()
+    ~~~~^^
+  File "/Users/e021661/Documents/ScenarioLab/scripts/sa6_abg_family4b_test_worker.py", line 594, in main
+    fit_one_sealed_protocol_b_forecast(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        X_public,
+        ^^^^^^^^^
+    ...<19 lines>...
+        ),
+        ^^
+    )
+    ^
+  File "/Users/e021661/Documents/ScenarioLab/src/scenariolab/highdim/protocol_b_sealed_test.py", line 181, in fit_one_sealed_protocol_b_forecast
+    raise ValueError(
+        "Public origin row contains NaN."
+    )
+ValueError: Public origin row contains NaN.

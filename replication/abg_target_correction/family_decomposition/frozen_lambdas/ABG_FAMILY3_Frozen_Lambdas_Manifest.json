@@ -1,0 +1,22 @@
+{
+  "cells": 76,
+  "families": [
+    "REAL",
+    "NOMINAL",
+    "CREDIT_RATES",
+    "MARKETS"
+  ],
+  "family1a_reconciliation_sha256": "fd76c5b6a54ebb8d022e60291b803b7b77c10867b1529449c1c0c8502ff8c58c",
+  "family2_worker_sha256": "35052cb178f94b895739f189cee3ee6aacb0f2e274c75bc2aa26d84d8c88296d",
+  "frozen_lambda_sha256": "2225ae193d6b299de1a5507df15785cc5c682dac456a7eaf4e0a4c242ffefa3c",
+  "hd_used": false,
+  "selected_on": "REDUCED_PUBLIC_VALIDATION_ONLY",
+  "selection": "PER_FAMILY_PER_TAU_ARGMIN_MEAN_PINBALL",
+  "status": "ABG_FAMILY3_LAMBDAS_FROZEN",
+  "target": "ABG_H4_AVERAGE_NEXT4",
+  "taus": 19,
+  "test_accessed": false,
+  "test_loss_accessed": false,
+  "test_performance_accessed": false,
+  "validation": "2002Q1-2007Q3"
+}

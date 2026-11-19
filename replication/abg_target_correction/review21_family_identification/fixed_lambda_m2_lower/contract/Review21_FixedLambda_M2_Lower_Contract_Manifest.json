@@ -1,0 +1,37 @@
+{
+  "abg4a_penalty_authority": "scripts/sa6_abg4a_test_contract.py",
+  "abg4a_penalty_authority_sha256": "c73d47818167d36b2aa241d3683e853d7182b72ff13f0153e7d6af324dd5d94a",
+  "arms": [
+    "BENCHMARK",
+    "PLUS_HD"
+  ],
+  "block": "LOWER",
+  "contract_sha256": "e7d15a28f8ab301a1250ad13fd534cc785e3e393042df47809cc8cedee9e1a90",
+  "families": [
+    "REAL",
+    "NOMINAL",
+    "CREDIT_RATES",
+    "MARKETS"
+  ],
+  "forecasts_created": false,
+  "lambda_mean": 0.5623413251903491,
+  "lambda_rule": "INHERIT_FULL_M2_PROTOCOL_B_BLOCK_PENALTY",
+  "lambda_selection": false,
+  "losses_computed": false,
+  "n_jobs": 40,
+  "n_origins_per_job": 70,
+  "n_rows": 2800,
+  "performance_accessed": false,
+  "scientific_estimand": "LEAVE_ONE_FAMILY_OUT_WITH_INHERITED_FULL_M2_BLOCK_PENALTY",
+  "source_contract": "outputs/sa6/abg_target_correction/family_decomposition/test_contract/ABG_FAMILY4A_R1_Frozen_Test_Contract.csv",
+  "source_contract_sha256": "60978697f39d4171559fbd99fb136917e756bc17cd51e94fa0aabcab78df23ba",
+  "source_manifest_sha256": "13e1a1d9f162de78e74b7229f88c642bf9126aa4670b40df04c965006d5b5156",
+  "status": "REVIEW21_FIXED_LAMBDA_M2_LOWER_CONTRACT_FROZEN",
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "authorities": {
+    "data/raw/usa/macro/gdp_growth.csv": "29caa67d2e09812c327766e8f3be9cec14315150a93ef6e7f5a88b5633cef437",
+    "outputs/sa5/b_hd/00_design/SA5_B0_FREDMD_Family_Map.csv": "1aefd8ee13f60fc4d1e913278775d8c783e4e5fcf0b6f0fa5580de062ce70ced",
+    "scripts/sa5_b2_hd_reduced_benchmark_frozen_validation.py": "afd642a6ce749e527e505e82f1e9562fdbbe41f8554b1bfc87cf615962dd4a9e",
+    "scripts/sa6_abg1_target_certification.py": "601d7750b02d112c1aea2bdcadf6b68f6255c57277d44b42a06fea3f84c03231",
+    "scripts/sa6_abg3b_validation_worker.py": "d6d09e8c2982bdb72c034e47d8753db2584b44601e341285d8d3bed3a2920a77",
+    "src/scenariolab/highdim/protocol_b_focal.py": "c7d87a55d3a780eca0c866e24584913f911299c9170a67562f250dbef3411a6f",
+    "src/scenariolab/highdim/protocol_b_penalized_quantile.py": "097d3350a11d7603acd26e4e4521af08071b1e3783a75c21e977982576fa347c",
+    "src/scenariolab/highdim/protocol_b_penalized_quantile_mean_fallback.py": "96b800b92f36aff3ec408d45e5da82a30b192b3c331f5a49ef8335def35d6796",
+    "src/scenariolab/highdim/protocol_b_sealed_test.py": "ae47f2a525e0e78e9899e417fb1d2a4e4b9fc1b63a4ca7dbe2bc09346363bd2b"
+  },
+  "contract_sha256": "745e775d1346b71741785c6d656fc6865ceb3f4d1efed0b41611df69b0bf3b84",
+  "dependent_series": "Y4[q]=mean(g[q-3:q])",
+  "development": "1994Q2-2007Q3",
+  "development_N": 54,
+  "families": {
+    "CREDIT_RATES": {
+      "n_remaining": 91,
+      "n_removed": 35
+    },
+    "MARKETS": {
+      "n_remaining": 122,
+      "n_removed": 4
+    },
+    "NOMINAL": {
+      "n_remaining": 103,
+      "n_removed": 23
+    },
+    "REAL": {
+      "n_remaining": 63,
+      "n_removed": 63
+    }
+  },
+  "forecast_accessed": false,
+  "forecast_target": "Y4[t+4]=mean(g[t+1:t+4])",
+  "gdp_regressor_contract": "GDP_GROWTH_CURRENT[t]=g[t]",
+  "horizon": 4,
+  "lambda_grid": [
+    0.2,
+    0.5,
+    1.0,
+    2.0,
+    5.0,
+    10.0,
+    20.0,
+    50.0,
+    75.0,
+    100.0,
+    125.0,
+    150.0,
+    200.0,
+    500.0,
+    1000.0
+  ],
+  "lambda_selection": "PER_FAMILY_PER_TAU_VALIDATION_ONLY",
+  "loss_accessed": false,
+  "n_family_tau_cells": 76,
+  "n_min": 24,
+  "performance_accessed": false,
+  "scientific_change": "DEPENDENT VARIABLE ONLY: legacy direct target -> ABG_H4_AVERAGE_NEXT4",
+  "status": "ABG_FAMILY1_CONTRACT_FROZEN",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.45,
+    0.5,
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95
+  ],
+  "test_accessed": false,
+  "validation": "2002Q1-2007Q3",
+  "validation_N": 23,
+  "validation_run": false
+}

@@ -1,0 +1,35 @@
+{
+  "bridge_sha256": {
+    "EPU": "3ee5548cdf70b9e2b3e42ab04801eadaebb1f5934b578ed42dc590c2f4674e91",
+    "GPR": "37e2dda174915760d8db399af35d902de8c5588677a69cdc4b55749262abcec9",
+    "SPF": "71026b416de066d565b44a8ab5d8e61534c2f6f097bc44106b93092fad4e5f02"
+  },
+  "contract_sha256": "5dc15b4d1717893c433080b296aa41a1684f113c62c1ad2f2ac8f68de5a69147",
+  "dependent_contract": "Y4[t+4]=mean(g[t+1:t+4])",
+  "experiment_family": "EXTERNAL_BENCHMARK_EXTENSION",
+  "focal_first_available": "1994Q2",
+  "forecasts_estimated": false,
+  "gdp_regressor_contract": "GDP_GROWTH_CURRENT[t]=g[t]",
+  "lambda_selected": false,
+  "models": [
+    "ABG9_PUBLIC_SPF",
+    "ABG9_PUBLIC_GPR",
+    "ABG9_PUBLIC_EPU"
+  ],
+  "n_models": 3,
+  "n_origins": 70,
+  "n_rows": 3990,
+  "n_taus": 19,
+  "origin_end": "2025Q1",
+  "origin_start": "2007Q4",
+  "original_review16_family": false,
+  "performance_accessed": false,
+  "selected_lambdas": {
+    "CENTER": 100.0,
+    "LOWER": 0.5623413251903491,
+    "UPPER": 100.0
+  },
+  "source_contract_sha256": "d0d8439438301eeaa830235b27782a2289fcc60814d8f3841ec3d980594873bb",
+  "status": "ABG9_EXTERNAL_SPF_GPR_EPU_CONTRACT_FROZEN",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4"
+}

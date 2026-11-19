@@ -1,0 +1,19 @@
+{
+  "bootstrap_reps": 10000,
+  "comparison": "REALTIME_MATCHED M3+HD vs M3",
+  "hac_lag": 3,
+  "hln_horizon": 4,
+  "lambda_selection": false,
+  "mbb_primary_length": 4,
+  "mbb_sensitivity_lengths": [
+    6,
+    8
+  ],
+  "mbb_sha256": "0468a3f1abf0ef849a38e36ae9eb751f0f301b2bc267ee1e59c5957a8a06fd81",
+  "negative_d": "HD improvement",
+  "new_forecasts": false,
+  "reestimation": false,
+  "results_sha256": "eadac9d973a7e6ab78ee0bdeea7c3fbf5ddba457ff15d78b92c36a7111a5e17b",
+  "status": "RTNFCI6_REALTIME_INFERENCE_COMPLETE",
+  "targets_sha256": "6bd32147946615b18df20760d2ed87417f51bac5d77af7a93c8b0d3def5b832c"
+}

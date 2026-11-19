@@ -1,0 +1,23 @@
+{
+  "boot_lengths": [
+    4,
+    6,
+    8
+  ],
+  "boot_reps": 10000,
+  "hac_lag": 3,
+  "holm_family": "SIX_BILATERAL_CROSS_FAMILY_HLN_TESTS",
+  "horizon": 4,
+  "lambda_selection": false,
+  "new_forecasts": false,
+  "pair_mbb_sha256": "7233e89dc81acb5d60deb48e639c4ed07d076349f1d849dba803ffa8e44baa8d",
+  "pair_sha256": "c859a7e43ddbacc50fb815608f9950cde4e1391c535e21902bb0a3dc5a2c8c06",
+  "paired_targets_sha256": "ac9fd161465058e6bb8b5c4545d4a8ec436fcd4b05b0fea0b3ee9b3fedf55aa3",
+  "reestimation": false,
+  "seed": 20260918,
+  "source_sha256": "20197597b337854c086175941e9d3c37d01b69de81502f10e2ad41dec632b8cc",
+  "status": "REVIEW21_FIXED_LAMBDA_M3_LOWER_INFERENCE_COMPLETE",
+  "summary_source_sha256": "afde032d087a1e53371762cc506a41b169e956d54b24af34da688d065f2712cf",
+  "within_mbb_sha256": "0158ede91b3e369304370ddea586d83a3ed7cd091075ceff55e275f3e94c9962",
+  "within_sha256": "2098869766f829508caf5052bc39566cc46a48fda69b83c6a57535b546edf69d"
+}

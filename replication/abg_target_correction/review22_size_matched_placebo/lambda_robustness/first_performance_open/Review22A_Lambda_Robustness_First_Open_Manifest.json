@@ -1,0 +1,21 @@
+{
+  "A6_script_sha256": "814ca42d53a27b979ada27d32b34809d2dc7be9fce8a0167625b0d40ff718c1b",
+  "A8_4_manifest_sha256": "fac7d39d61dd837857122055577dad5e87a58e824801151bb3ce897157a9e7f2",
+  "A8_4_summary_sha256": "a2dec6da9056ea76879865a2b12ac2da6b85917570fbfc2aa3950adfa7e55d67",
+  "estimand": "delta_reduced_minus_full",
+  "lambda_labels": [
+    "HALF",
+    "DOUBLE"
+  ],
+  "lambda_selection": false,
+  "model_selection": false,
+  "new_forecasts": false,
+  "placebo_draws_per_lambda": 40,
+  "presentation_transform": "-100*mean(delta)/lambda_specific_FULL_M3_benchmark_mean_loss",
+  "re_estimation": false,
+  "same_placebo_draws": true,
+  "scientific_authority": "REVIEW22_A6",
+  "status": "REVIEW22A_A8_5_FIRST_ROBUSTNESS_OPEN_COMPLETE",
+  "subset_output_sha256": "81b314352ef0a95bbe2f1485849af62b3eb3124fdc9dae50bd5ca14d93e8834e",
+  "summary_output_sha256": "70bf8a974a5db6eb51d1f6928d3506311cc2cc1b8faefa62af36a14d3ee2ae88"
+}

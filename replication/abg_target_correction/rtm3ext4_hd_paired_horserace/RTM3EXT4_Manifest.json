@@ -1,0 +1,28 @@
+{
+  "bootstrap_lengths": [
+    4,
+    6,
+    8
+  ],
+  "bootstrap_reps": 10000,
+  "comparison": "HD_VS_EXTERNALS_CONDITIONAL_ON_REALTIME_M3",
+  "external_source_sha256": "ffd283149e091fdf834fff25405024e83a66c7441d684959a4b016a42a8870fe",
+  "hac_lag": 3,
+  "hd_source_sha256": "6bd32147946615b18df20760d2ed87417f51bac5d77af7a93c8b0d3def5b832c",
+  "horizon": 4,
+  "mbb_sha256": "6356ec4a31f30ba684253f9307414e13239b677332e62dd4d3051cdc815a7fca",
+  "n_origins": 70,
+  "new_forecasts": false,
+  "new_losses": false,
+  "paired_sha256": "f4664f98127d8825523fe6b4ffff96cbcfe34dcd2e8e060025b47f700b44fa83",
+  "re_estimation": false,
+  "result_sha256": "f1ede8fd4e54cd684ceeb69e534ea6ee1c8b03ffd754c3c0fbb9f8c53c540088",
+  "seed": 20260918,
+  "signals": [
+    "SPF",
+    "GPR",
+    "EPU",
+    "OIL"
+  ],
+  "status": "RTM3EXT4_HD_VS_EXTERNALS_COMPLETE"
+}

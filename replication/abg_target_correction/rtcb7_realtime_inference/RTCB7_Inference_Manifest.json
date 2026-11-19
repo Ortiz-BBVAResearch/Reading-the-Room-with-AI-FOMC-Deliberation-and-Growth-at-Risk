@@ -1,0 +1,35 @@
+{
+  "blocks": [
+    "ALL19",
+    "LOWER",
+    "CENTER",
+    "UPPER"
+  ],
+  "bootstrap": "MOVING_BLOCK_NON_NULL_RECENTERED",
+  "bootstrap_lengths": [
+    4,
+    6,
+    8
+  ],
+  "bootstrap_reps": 10000,
+  "hac_lag": 3,
+  "hln": true,
+  "horizon": 4,
+  "lambda_selection": false,
+  "mbb_sha256": "be2cd91d4fe48f4b4e3e7119aaa83135947672acb40308b102fc8481416ceb13",
+  "new_forecasts": false,
+  "primary_bootstrap_length": 4,
+  "re_estimation": false,
+  "results_sha256": "c191ffe7c1da056d3a01f8b8a724f74eddc544a8b1b3261034198547d85994af",
+  "seed": 20260917,
+  "signals": [
+    "BOR",
+    "QDISC",
+    "SALIENCE",
+    "INSURANCE",
+    "VERBOSITY"
+  ],
+  "source_sha256": "beda911aad18fd3c8039bd4105384ae7beb866ffdb6f736aeebbf93f471d8098",
+  "status": "RTCB7_REALTIME_INFERENCE_COMPLETE",
+  "target_level_sha256": "603a05e3f0b533e12617727ad495f2ddc7df7b7bc352f7f527c7c511cfc7430e"
+}

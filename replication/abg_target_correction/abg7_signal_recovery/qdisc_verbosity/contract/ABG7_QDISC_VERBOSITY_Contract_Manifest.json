@@ -1,0 +1,29 @@
+{
+  "contract_sha256": "d52165265600ae6b0a80d7da4edf3fec4efe7141127c6cd61ca62e4f8b28277f",
+  "dependent_contract": "Y4[t+4]=mean(g[t+1:t+4])",
+  "focal_first_available": "1994Q2",
+  "forecasts_estimated": false,
+  "gdp_regressor_contract": "GDP_GROWTH_CURRENT[t]=g[t]",
+  "lambda_selected": false,
+  "models": [
+    "ABG7_PUBLIC_QDISC",
+    "ABG7_PUBLIC_VERBOSITY"
+  ],
+  "n_models": 2,
+  "n_origins": 70,
+  "n_rows": 2660,
+  "n_taus": 19,
+  "origin_end": "2025Q1",
+  "origin_start": "2007Q4",
+  "performance_accessed": false,
+  "qdisc_bridge_sha256": "7603c59ca052c6c6138593f4c3c0cb814793e29936eb3a407457921b9823208e",
+  "selected_lambdas": {
+    "CENTER": 100.0,
+    "LOWER": 0.5623413251903491,
+    "UPPER": 100.0
+  },
+  "source_contract_sha256": "d0d8439438301eeaa830235b27782a2289fcc60814d8f3841ec3d980594873bb",
+  "status": "ABG7_QDISC_VERBOSITY_CONTRACT_FROZEN",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "verbosity_bridge_sha256": "ad98cf109115130c91fac31f32555771eef64ad5dcb68c587a27a16714540193"
+}

@@ -1,0 +1,26 @@
+{
+  "arms": [
+    "FINAL_MATCHED",
+    "REALTIME_MATCHED"
+  ],
+  "availability_selection": false,
+  "differentials_sha256": "beda911aad18fd3c8039bd4105384ae7beb866ffdb6f736aeebbf93f471d8098",
+  "lambda_selection": false,
+  "main_sha256": "8e05a3a1d2e75d9435dad305e30f64ef8860e2ca5a3418241d735daa032f6285",
+  "n_origins": 70,
+  "n_signals": 5,
+  "n_taus": 19,
+  "new_forecasts": false,
+  "new_inference": false,
+  "per_tau_sha256": "c314425d713abf2e7a79ae911fa96cc07fc3cd2e35808291afe9d2485c1cbf39",
+  "performance": "FIRST_OPEN",
+  "re_estimation": false,
+  "signals": [
+    "BOR",
+    "QDISC",
+    "SALIENCE",
+    "INSURANCE",
+    "VERBOSITY"
+  ],
+  "status": "RTCB6_FIRST_OPEN_COMPLETE"
+}

@@ -1,0 +1,37 @@
+{
+  "arms": [
+    "BENCHMARK",
+    "PLUS_HD"
+  ],
+  "block": "LOWER",
+  "contract_sha256": "bc1d578fb1c91938e4f30d12f70bf8edae2af19cb8652635bfc17a109c972190",
+  "families": [
+    "REAL",
+    "NOMINAL",
+    "CREDIT_RATES",
+    "MARKETS"
+  ],
+  "fixed_lambda": 0.5623413251903491,
+  "forecasts_created": false,
+  "lambda_rule": "INHERIT_FULL_M3_PROTOCOL_B_BLOCK_PENALTY",
+  "lambda_selection": false,
+  "losses_computed": false,
+  "n_jobs": 40,
+  "n_origins_per_job": 70,
+  "n_rows": 2800,
+  "nfci_authority": "data/derived/usa/financial/e12/SA4_E12_NFCI_Quarterly_Realtime_Bridge.csv",
+  "nfci_rule": "NFCI_PF1_UNPENALIZED_FOCAL",
+  "nfci_sha256": "71d8b8e92bffefd536b2c618c3906bba32fda3af99d2bb1508795815c47277d0",
+  "performance_accessed": false,
+  "scientific_estimand": "M3_LEAVE_ONE_FAMILY_OUT_WITH_INHERITED_FULL_M3_LOWER_PENALTY",
+  "source_m2_contract": "outputs/sa6/abg_target_correction/review21_family_identification/fixed_lambda_m2_lower/contract/Review21_FixedLambda_M2_Lower_Contract.csv",
+  "source_m2_contract_sha256": "e7d15a28f8ab301a1250ad13fd534cc785e3e393042df47809cc8cedee9e1a90",
+  "status": "REVIEW21_FIXED_LAMBDA_M3_LOWER_CONTRACT_FROZEN",
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25
+  ]
+}

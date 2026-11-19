@@ -1,0 +1,34 @@
+{
+  "benchmark": "REALTIME_MATCHED_R2",
+  "blocks": [
+    "ALL19",
+    "LOWER",
+    "CENTER",
+    "UPPER"
+  ],
+  "bootstrap_lengths": [
+    4,
+    6,
+    8
+  ],
+  "bootstrap_reps": 10000,
+  "hac_lag": 3,
+  "horizon": 4,
+  "lambda_selection": false,
+  "mbb_sha256": "f742a4755952df83ce6dcf9742a779ef18e496026ff32f432324c288cfa51b2d",
+  "n_origins": 70,
+  "new_forecasts": false,
+  "new_losses": false,
+  "re_estimation": false,
+  "results_sha256": "75851eb64d704a4353e17957f62e22369f27cee1c693d48775ceab6d696735ff",
+  "seed": 20260918,
+  "signals": [
+    "SPF",
+    "GPR",
+    "EPU",
+    "VIX",
+    "OIL"
+  ],
+  "source_sha256": "abcb2502b5195723fb16e7d4d18689560fe82206ae8554ff28627e145f638cd0",
+  "status": "RTEXT5_REALTIME_INFERENCE_COMPLETE"
+}

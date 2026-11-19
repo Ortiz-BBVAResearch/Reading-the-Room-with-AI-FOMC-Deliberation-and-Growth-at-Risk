@@ -1,0 +1,23 @@
+{
+  "all19_existing_cells_checked": 10,
+  "block": "ALL19",
+  "definition": "100*(1-mean(challenger_loss)/mean(benchmark_loss))",
+  "excluded_targets": [
+    "2020Q1",
+    "2020Q2",
+    "2020Q3"
+  ],
+  "exclusion_dimension": "target",
+  "lambda_selection": false,
+  "new_forecasts": false,
+  "new_losses": false,
+  "output_sha256": "c9f7e49fa9c8994d6db2a33f8ad786500329fec250766ff4797e16ead262179d",
+  "published_witnesses": {
+    "Hidden Dissent": 3.958,
+    "Hidden Dissent added to M2+NFCI": 6.128
+  },
+  "reestimation": false,
+  "status": "REVIEW22B_EX_PANDEMIC_COMPLETE",
+  "table2_sha256": "2020b60384db9925ec015957d250cd775ee84c6911c4245dd54fdea1b91060f2",
+  "target_authority_sha256": "f4e51be91f0ffd15c42abe3ec07f468cb06f073e9c59f0a0e5c46bceeb364e4a"
+}

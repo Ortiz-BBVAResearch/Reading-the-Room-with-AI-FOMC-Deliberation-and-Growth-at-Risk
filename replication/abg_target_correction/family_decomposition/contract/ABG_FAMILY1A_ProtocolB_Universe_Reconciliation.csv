@@ -1,0 +1,5 @@
+family,legacy_family_N,protocol_b_present_N,removed_in_family_experiment,remaining_predictors_including_GDP,legacy_members_not_in_protocol_b,universe_rule
+REAL,63,62,62,62,UMCSENTx,SA5 family map intersected with ProtocolB B1 frozen 123-nuisance universe
+NOMINAL,23,23,23,101,,SA5 family map intersected with ProtocolB B1 frozen 123-nuisance universe
+CREDIT_RATES,35,34,34,90,TWEXAFEGSMTHx,SA5 family map intersected with ProtocolB B1 frozen 123-nuisance universe
+MARKETS,4,4,4,120,,SA5 family map intersected with ProtocolB B1 frozen 123-nuisance universe

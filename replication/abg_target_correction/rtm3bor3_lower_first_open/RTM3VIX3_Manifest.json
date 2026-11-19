@@ -1,0 +1,27 @@
+{
+  "bootstrap_lengths": [
+    4,
+    6,
+    8
+  ],
+  "bootstrap_reps": 10000,
+  "comparison": "REALTIME_M3_PLUS_BOR_VS_REALTIME_M3",
+  "hac_lag": 3,
+  "horizon": 4,
+  "lambda_selection": false,
+  "mbb_sha256": "24774b2e3c5082d7687486a627f4789dca23e8eabc3686ca0746421c873184c3",
+  "n_origins": 70,
+  "new_forecasts": false,
+  "re_estimation": false,
+  "result_sha256": "beebdfbda9c48bc8ecb4390b6853f009183666b5bf8873899518b81a188872e8",
+  "seed": 20260917,
+  "status": "RTM3VIX3_LOWER_FIRST_OPEN_COMPLETE",
+  "target_sha256": "ad8fe10b96f641af378b9533f17af8ae7e003ef192a652051f6e386708df7c5b",
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25
+  ]
+}

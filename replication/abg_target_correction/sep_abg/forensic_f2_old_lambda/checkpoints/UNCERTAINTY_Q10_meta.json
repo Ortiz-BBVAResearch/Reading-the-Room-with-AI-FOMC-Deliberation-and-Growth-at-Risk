@@ -1,0 +1,19 @@
+{
+  "design_sha256": "dae72bfb1665175d0c9fc9451efbcf991197c5a3813e1b9cad0a36fb8936f5ad",
+  "detail_sha256": "425702440150306651f57272b18e1a6c0f5500e9819397a5d0e7ee658325b01f",
+  "elapsed_seconds": 5.4468770027160645,
+  "forecast_engine_sha256": "7ec90cb8cbf66a53782cef59030a9a3be607c54837bc5ee267deb77d78d95a56",
+  "lambda_old": 0.2,
+  "lambda_selection": false,
+  "n_test": 45,
+  "old_validation_meta_sha256": "4011e27faaf21dafbb84ee3ccbf4185de83dcf2e5af71358167d49daa263e5b1",
+  "purpose": "ABG canonical target with OLD historical lambda",
+  "signal": "UNCERTAINTY",
+  "status": "FORENSIC_F2_COMPLETE",
+  "table2_replacement": false,
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "tau": 0.1,
+  "test_end": "2026Q1",
+  "test_start": "2015Q1",
+  "test_tuning": false
+}

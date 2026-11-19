@@ -1,0 +1,25 @@
+{
+  "HAC_lag": 3,
+  "HLN_df": 69,
+  "HLN_horizon": 4,
+  "MBB_B": 10000,
+  "MBB_null_recentered": false,
+  "MBB_primary_L": 4,
+  "MBB_seed": 20260903,
+  "MBB_sensitivity_L": [
+    6,
+    8
+  ],
+  "N_targets": 70,
+  "availability_selection": false,
+  "deltas_sha256": "3683eb0dab7c9c13468c8c6fc5932afc6d2bc2b341c40f88924b39c368a520f4",
+  "lambda_selection": false,
+  "mbb_sha256": "7c9494586067c179be9338eff6545f67ad2d8a079350d4fd3c591f814c399f7b",
+  "new_forecasts": false,
+  "performance_accessed": true,
+  "re_estimation": false,
+  "results_sha256": "ece840d089aedcba37ea25bdbdc495b23feba7718af75169c3a212c32f802115",
+  "scientific_object": "delta_t = (RT_HD-RT_PUBLIC loss advantage) - (FINAL_HD-FINAL_PUBLIC loss advantage)",
+  "status": "RTABG6_FINAL_RT_STABILITY_COMPLETE",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4"
+}

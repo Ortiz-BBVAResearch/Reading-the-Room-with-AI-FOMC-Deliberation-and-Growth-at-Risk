@@ -1,0 +1,19 @@
+{
+  "HAC_lag": 3,
+  "HLN_horizon": 4,
+  "block_output_sha256": "a951f129553ddb278da38ae1cd6b5bef7c7e1597e5c405c88b7f67ada7a774ba",
+  "covid_targets_removed": [
+    "2020Q1",
+    "2020Q2",
+    "2020Q3"
+  ],
+  "ex_pandemic_N": 67,
+  "figure_output_sha256": "b622e0387a7393696823fcee4c5c726dbb0d68df9cb00275c9bf8c738a31769b",
+  "full_N": 70,
+  "lambda_selection": false,
+  "lower_output_sha256": "d1fc62c2b07b766a6473eaf748820ceab3e35122d72b0f2e01cefe2db76774da",
+  "new_forecasts": false,
+  "re_estimation": false,
+  "status": "ABG_FIGURE3_TABLE4_REBUILT",
+  "target": "ABG_H4_AVERAGE_NEXT4"
+}

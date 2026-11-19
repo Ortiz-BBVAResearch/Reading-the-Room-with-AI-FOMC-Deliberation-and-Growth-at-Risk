@@ -1,0 +1,25 @@
+{
+  "block": "LOWER",
+  "bootstrap_lengths": [
+    4,
+    6,
+    8
+  ],
+  "bootstrap_reps": 10000,
+  "common_benchmark": "REALTIME_M3_R2_NFCI",
+  "contrast": "HD_d_MINUS_VIX_d",
+  "hac_lag": 3,
+  "hd_source_sha256": "6bd32147946615b18df20760d2ed87417f51bac5d77af7a93c8b0d3def5b832c",
+  "horizon": 4,
+  "mbb_sha256": "d27f8a8eb55e6bf269c389a1c16994632e46ae0d1b32cd29859f091e1ce1f85a",
+  "n_origins": 70,
+  "negative_delta": "HD_LOWER_INCREMENTAL_PINBALL_LOSS",
+  "new_forecasts": false,
+  "new_losses": false,
+  "paired_sha256": "e40187572722f188cdf8709b713d50a9dbaaee4d6e210e8442aa29f0bb3d66df",
+  "re_estimation": false,
+  "results_sha256": "b7c8a4705d19388c709aa8254c86a86266e243e4f80c7ae7d212279b34272946",
+  "seed": 20260918,
+  "status": "RTM3VIX4_HD_VIX_PAIRED_COMPLETE",
+  "vix_source_sha256": "ad8fe10b96f641af378b9533f17af8ae7e003ef192a652051f6e386708df7c5b"
+}

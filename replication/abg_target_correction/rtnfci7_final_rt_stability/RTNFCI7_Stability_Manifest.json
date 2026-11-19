@@ -1,0 +1,20 @@
+{
+  "bootstrap_reps": 10000,
+  "contrast": "delta = d_REALTIME - d_FINAL",
+  "hac_lag": 3,
+  "hln_horizon": 4,
+  "lambda_selection": false,
+  "mbb_primary_length": 4,
+  "mbb_sensitivity_lengths": [
+    6,
+    8
+  ],
+  "mbb_sha256": "0454f0f322ef962972d0c10960e03104f302a82152cd404203dfa490754ff21f",
+  "negative_delta": "HD loss advantage strengthens under REALTIME",
+  "new_forecasts": false,
+  "positive_delta": "HD loss advantage weakens under REALTIME",
+  "reestimation": false,
+  "results_sha256": "b22ca0c11fe0ffa56113bac862fdcf71b88a8d59f64b4424c475784eccc7feed",
+  "status": "RTNFCI7_FINAL_RT_STABILITY_COMPLETE",
+  "targets_sha256": "a2332d1eca42b8cee2fb8028ede559519dd26cf2546b926409b066bd75d3b9bb"
+}

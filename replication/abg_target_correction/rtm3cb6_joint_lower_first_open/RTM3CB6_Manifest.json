@@ -1,0 +1,35 @@
+{
+  "benchmark": "REALTIME_M3_R2_NFCI",
+  "bootstrap_lengths": [
+    4,
+    6,
+    8
+  ],
+  "bootstrap_reps": 10000,
+  "hac_lag": 3,
+  "horizon": 4,
+  "lambda_selection": false,
+  "mbb_sha256": "a231f09c40034e38aa76f912e54ad9091f92a91877b7372e94a0007e0e37b3df",
+  "n_origins": 70,
+  "new_forecasts": false,
+  "re_estimation": false,
+  "result_sha256": "a41a125de2985e386f392e2821b96eb5ae0eb5d517128e65b33deb890e261bd9",
+  "seed": 20260917,
+  "signals": [
+    "HD",
+    "BOR",
+    "QDISC",
+    "SALIENCE",
+    "INSURANCE",
+    "VERBOSITY"
+  ],
+  "status": "RTM3CB6_JOINT_LOWER_FIRST_OPEN_COMPLETE",
+  "target_sha256": "f798fcc4058ead86bff6d24476dc4271bdf3a225eea5441118feee3207c26bd0",
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25
+  ]
+}

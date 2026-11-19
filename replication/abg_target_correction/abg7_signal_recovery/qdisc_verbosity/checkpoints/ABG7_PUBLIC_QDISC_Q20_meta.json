@@ -1,0 +1,23 @@
+{
+  "contract_sha256": "d52165265600ae6b0a80d7da4edf3fec4efe7141127c6cd61ca62e4f8b28277f",
+  "dependent_contract": "Y4[t+4]=mean(g[t+1:t+4])",
+  "detail_sha256": "eb3acf740413eaa4e59db3e9b9299ed8014fcaa90279a999b8cb101b775d4f0c",
+  "elapsed_seconds": 385.4451062679291,
+  "focal_module_sha256": "c7d87a55d3a780eca0c866e24584913f911299c9170a67562f250dbef3411a6f",
+  "gdp_regressor_contract": "GDP_GROWTH_CURRENT[t]=g[t]",
+  "lambda_selection": false,
+  "lambda_vector_sha256": "746074bbd1a756c5274cbf5c8328ba690919c118bf41d6ead167610394ca5ed3",
+  "loss_computed": false,
+  "mean_module_sha256": "96b800b92f36aff3ec408d45e5da82a30b192b3c331f5a49ef8335def35d6796",
+  "model": "ABG7_PUBLIC_QDISC",
+  "model_ranking": false,
+  "n_mean_fallback": 0,
+  "n_origins": 70,
+  "sealed_engine_sha256": "ae47f2a525e0e78e9899e417fb1d2a4e4b9fc1b63a4ca7dbe2bc09346363bd2b",
+  "signal_recovery_contract": "ABG7_QDISC_VERBOSITY",
+  "source_review15_worker_sha256": "d3ba81679854eea6029ffbd0fe05f3b0e6a7cfccd3c75949820529044b7a9264",
+  "status": "SEALED_COMPLETE",
+  "sum_module_sha256": "097d3350a11d7603acd26e4e4521af08071b1e3783a75c21e977982576fa347c",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "tau": 0.2
+}

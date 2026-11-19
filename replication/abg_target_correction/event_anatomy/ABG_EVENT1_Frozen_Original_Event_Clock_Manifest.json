@@ -1,0 +1,26 @@
+{
+  "actual_access": false,
+  "clock_sha256": "e74a82675f346a764deb78def818d2559e29b6446717ba2e0c37755b0ec7b46b",
+  "event_N": 32,
+  "event_family": {
+    "BANKING23": 2,
+    "CHINA_OIL": 4,
+    "COVID": 3,
+    "EURO": 11,
+    "GFC": 5,
+    "INFLATION": 3,
+    "UKRAINE": 4
+  },
+  "forecast_access": false,
+  "loss_access": false,
+  "non_event_N": 38,
+  "performance_access": false,
+  "prediction_access": false,
+  "source": "outputs/sa6/protocol_b/review16_event_anatomy/p0_provenance/Review16_Event_Window_Provenance.csv",
+  "source_sha256": "ee5bc3b1d3c9729e84ab7f7c609fb8a464b0178e9c56edc73817e76aba495d6e",
+  "status": "ABG_EVENT1_ORIGINAL_CLOCK_FROZEN",
+  "test_N": 70,
+  "test_end": "2026Q1",
+  "test_start": "2008Q4",
+  "variant": "ORIGINAL"
+}

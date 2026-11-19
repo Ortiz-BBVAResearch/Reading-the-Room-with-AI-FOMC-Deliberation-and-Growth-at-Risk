@@ -1,0 +1,29 @@
+{
+  "contract_sha256": "d0ff1e37f8177353b575ea31cf3c4a1b4de4e95b053b92e11c3c634c7f3c56a7",
+  "finite_actuals": true,
+  "finite_predictions": true,
+  "forecast_rows": 58800,
+  "half_double_support_identity": true,
+  "jobs": 840,
+  "lambda_labels": [
+    "HALF",
+    "DOUBLE"
+  ],
+  "lambda_selection": false,
+  "loss_computed": false,
+  "model_selection": false,
+  "new_forecasts": false,
+  "objects": [
+    "FULL_M3",
+    "REAL",
+    "PLACEBO_N62"
+  ],
+  "paired_arm_support_identity": true,
+  "performance_accessed": false,
+  "placebo_draws": 40,
+  "status": "REVIEW22A_A8_4_FORECAST_BANK_CERTIFIED_PRE_PERFORMANCE",
+  "summary_sha256": "a2dec6da9056ea76879865a2b12ac2da6b85917570fbfc2aa3950adfa7e55d67",
+  "targets_per_job": 70,
+  "total_mean_fallbacks": 0,
+  "worker_sha256": "9cce6c447c01449874251839ff6aff684c55453abaeaa1886a8ff2930eb8b1ef"
+}

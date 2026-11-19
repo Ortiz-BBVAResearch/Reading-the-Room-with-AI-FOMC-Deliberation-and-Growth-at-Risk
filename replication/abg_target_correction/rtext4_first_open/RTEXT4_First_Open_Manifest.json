@@ -1,0 +1,70 @@
+{
+  "availability_selection": false,
+  "benchmark": "REALTIME_MATCHED_R2",
+  "blocks": {
+    "ALL19": [
+      0.05,
+      0.1,
+      0.15,
+      0.2,
+      0.25,
+      0.3,
+      0.35,
+      0.4,
+      0.45,
+      0.5,
+      0.55,
+      0.6,
+      0.65,
+      0.7,
+      0.75,
+      0.8,
+      0.85,
+      0.9,
+      0.95
+    ],
+    "CENTER": [
+      0.3,
+      0.35,
+      0.4,
+      0.45,
+      0.5,
+      0.55,
+      0.6,
+      0.65,
+      0.7
+    ],
+    "LOWER": [
+      0.05,
+      0.1,
+      0.15,
+      0.2,
+      0.25
+    ],
+    "UPPER": [
+      0.75,
+      0.8,
+      0.85,
+      0.9,
+      0.95
+    ]
+  },
+  "blocks_sha256": "a99f4929b12d958d48a3ebe2051e141dd5902721b1cd56f7439e7013f10dc9ec",
+  "bytau_sha256": "6e36f803ea1509bb9f4988d7bc3b75b1ca1e236789f58f839be06873396dd680",
+  "lambda_selection": false,
+  "n_origins": 70,
+  "n_signals": 5,
+  "n_taus": 19,
+  "new_forecasts": false,
+  "new_inference": false,
+  "re_estimation": false,
+  "signals": [
+    "SPF",
+    "GPR",
+    "EPU",
+    "VIX",
+    "OIL"
+  ],
+  "status": "RTEXT4_FIRST_OPEN_COMPLETE",
+  "target_sha256": "abcb2502b5195723fb16e7d4d18689560fe82206ae8554ff28627e145f638cd0"
+}

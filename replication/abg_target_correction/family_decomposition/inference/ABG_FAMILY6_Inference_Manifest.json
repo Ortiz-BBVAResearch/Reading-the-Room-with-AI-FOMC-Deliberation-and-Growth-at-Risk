@@ -1,0 +1,20 @@
+{
+  "bootstrap_reps": 10000,
+  "hac_lag": 3,
+  "hln_horizon": 4,
+  "lambda_selection": false,
+  "mbb_primary_length": 4,
+  "mbb_sensitivity_lengths": [
+    6,
+    8
+  ],
+  "mbb_sha256": "a1875fe1ce7f26c2b1fe2a7c9b1136a28264a3369e4b54089c0d31da6cea929e",
+  "new_forecasts": false,
+  "positive_delta": "HD becomes more valuable when family removed",
+  "reestimation": false,
+  "results_sha256": "ffc2047a2491e84b2364eaf26fee6f42f30aa03b0c29fbd48a1a7dde58fd4d5b",
+  "scale": "percentage points of relative pinball loss using common FULL M2 benchmark denominator",
+  "source_sha256": "42975f2cd1a79b84864babb43aacd10ab2588922130c79277ee06c16ccc29990",
+  "status": "FAMILY6_PAIRED_INFERENCE_COMPLETE",
+  "targets_sha256": "f9b74bed1561e9532e2aab9dba05133aa1a18a0e789fa289d548441f6f8c45d9"
+}

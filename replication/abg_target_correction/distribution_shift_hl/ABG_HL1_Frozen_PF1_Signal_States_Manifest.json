@@ -1,0 +1,13 @@
+{
+  "pf1_contract": "available-through-origin expanding mean/sd, ddof=0",
+  "response_statistics_computed": false,
+  "signals_unique": 11,
+  "state_definition_uses_actuals": false,
+  "state_definition_uses_losses": false,
+  "state_definition_uses_performance": false,
+  "state_definition_uses_predictions": false,
+  "state_file_sha256": "d6af4c05a72b3b0b618788cd2f5e990399ec1713d3d8297ee43ca1fbc7961e6b",
+  "state_rule": "within-signal deterministic ranking of effective realtime PF1 z: 17 LOW / 36 MIDDLE / 17 HIGH",
+  "status": "ABC_HL1_SIGNAL_STATES_FROZEN",
+  "test_origins": 70
+}

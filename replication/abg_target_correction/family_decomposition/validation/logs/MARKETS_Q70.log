@@ -1,0 +1,49 @@
+================================================================================================================
+ABG-FAMILY2 — REDUCED PUBLIC BENCHMARK VALIDATION WORKER
+================================================================================================================
+
+family              : MARKETS
+tau                 : 0.70
+target              : ABG_H4_AVERAGE_NEXT4
+GDP regressor       : GDP_GROWTH_CURRENT[t]=g[t]
+validation          : 2002Q1 -> 2007Q3 | N=23
+lambda grid N       : 15
+expected fits       : 345
+
+Lambda selected ONLY on M2_-j benchmark.
+Selected lambda later imposed unchanged on M2_-j+HD.
+NO HD lambda selection.
+NO FINAL TEST.
+NO 2008Q4 OR LATER DATA.
+
+========================================================================================================
+SA4-E12 M2 H4 FROZEN-LAMBDA PRE-GFC VALIDATION
+========================================================================================================
+
+Development        : 1994Q2 -> 2007Q3 | N= 54
+Predictors         : 120
+N_MIN              : 24
+Validation targets : 2002Q1 -> 2007Q3 | N= 23
+Excluded           : []
+Design SHA256      : c23ea370fff72d542c78b00053b1822c393ab8128799d3d32e5c3fec83bcf022
+
+NO TEST
+NO 2008Q4 OR LATER DATA
+
+[START] Q70 tau=0.70
+[DONE] Q70 lambda*=100 elapsed=21.0s
+
+========================================================================================================
+SA4-E12 M2 H4 FROZEN LAMBDA VECTOR
+========================================================================================================
+     tau  lambda_star  best_mean_pinball  second_best_lambda  second_best_gap_pct
+0.700000   100.000000           0.474669           75.000000             0.255204
+
+Saved: outputs/sa6/abg_target_correction/family_decomposition/validation/markets/ABG_FAMILY2_MARKETS_Q70_Lambda.csv
+
+PASS: M2 PRE-GFC FROZEN LAMBDAS CERTIFIED
+PASS: FINAL TEST NOT ACCESSED
+
+PASS: ABG-FAMILY2 CELL COMPLETE
+PASS: HD NOT USED FOR LAMBDA SELECTION
+PASS: FINAL TEST NOT ACCESSED

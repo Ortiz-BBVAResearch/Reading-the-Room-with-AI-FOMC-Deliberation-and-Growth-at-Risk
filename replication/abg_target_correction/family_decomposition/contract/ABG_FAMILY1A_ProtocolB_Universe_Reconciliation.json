@@ -1,0 +1,18 @@
+{
+  "b1_nuisance_sha256": "48dd0df4eff19d105eeaa3662b606c3971c2a082afbbb889d1539acad21c5545",
+  "family1_original_contract_sha256": "745e775d1346b71741785c6d656fc6865ceb3f4d1efed0b41611df69b0bf3b84",
+  "family2_fits_executed_before_reconciliation": 0,
+  "family2_results_accessed_before_reconciliation": false,
+  "family_map_sha256": "1aefd8ee13f60fc4d1e913278775d8c783e4e5fcf0b6f0fa5580de062ce70ced",
+  "legacy_map_N": 125,
+  "not_in_protocol_b_universe": [
+    "TWEXAFEGSMTHx",
+    "UMCSENTx"
+  ],
+  "protocol_b_nuisance_N": 123,
+  "reason": "Legacy SA5 family map contains 125 variables; current Protocol-B M2 benchmark contains 123 frozen nuisance predictors.",
+  "reconciliation_sha256": "fd76c5b6a54ebb8d022e60291b803b7b77c10867b1529449c1c0c8502ff8c58c",
+  "rule": "Leave-one-family sets are the intersection of the legacy SA5 family classification with the frozen Protocol-B B1 nuisance universe.",
+  "status": "ABG_FAMILY1A_UNIVERSE_RECONCILED",
+  "test_accessed": false
+}

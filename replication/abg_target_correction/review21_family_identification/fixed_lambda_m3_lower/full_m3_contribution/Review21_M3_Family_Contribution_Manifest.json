@@ -1,0 +1,24 @@
+{
+  "boot_lengths": [
+    4,
+    6,
+    8
+  ],
+  "boot_reps": 10000,
+  "estimand": "d_reduced_minus_d_full",
+  "full_target_sha256": "fb984f30b6798f86ff0da0054b4d34125dc2b755233c8da2fea9efea4680f1cb",
+  "hac_lag": 3,
+  "holm_family": "FOUR_BILATERAL_FAMILY_VS_FULL_TESTS",
+  "horizon": 4,
+  "lambda_selection": false,
+  "mbb_sha256": "cd9f500c38c449c1baac9849552fee277dbf93f4e325fa66d8351d32b337e4a4",
+  "new_forecasts": false,
+  "presentation_transform": "-100*delta/FULL_M3_benchmark_mean_loss",
+  "reduced_target_sha256": "20197597b337854c086175941e9d3c37d01b69de81502f10e2ad41dec632b8cc",
+  "reestimation": false,
+  "result_sha256": "a9fc01d2dc3eb8be6bacd29903ed04954973504a04bda8d04e8c434fad00d48b",
+  "seed": 20260918,
+  "sign": "negative_delta_means_HD_more_useful_after_family_removal",
+  "status": "REVIEW21_M3_FULL_FAMILY_CONTRIBUTION_INFERENCE_COMPLETE",
+  "target_sha256": "c63dee3de531fe889bd83461324103fdef34f3211b48377321b3c1ac25da1e21"
+}

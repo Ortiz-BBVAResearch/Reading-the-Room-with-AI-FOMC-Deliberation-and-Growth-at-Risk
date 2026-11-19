@@ -1,0 +1,39 @@
+{
+  "abg7_contract_sha256": "d52165265600ae6b0a80d7da4edf3fec4efe7141127c6cd61ca62e4f8b28277f",
+  "abg8_contract_sha256": "6870bb9cdb293260a806a838768e08d8f2030bc979198872459d98f57cf5f143",
+  "actuals": false,
+  "availability_selection": false,
+  "contract_sha256": "a22b35be310203898ed831ff54238a7ef53539f06b9fcaf8abcbacc7d4b5e636",
+  "data_arms": [
+    "FINAL_MATCHED",
+    "REALTIME_MATCHED"
+  ],
+  "dependent_contract": "Y4[t+4]=mean(g[t+1:t+4])",
+  "experiment": "RT_CB_MINUTES_SIGNALS",
+  "gains": false,
+  "lambda_rule": "inherit frozen ABG7/ABG8 lambda; no reselection",
+  "lambda_selection": false,
+  "losses": false,
+  "n_contract_rows": 6650,
+  "n_origins": 70,
+  "n_signals": 5,
+  "n_taus": 19,
+  "performance_accessed": false,
+  "predictions": false,
+  "public_support": "RT0W origin-specific historically reconstructible matched support",
+  "rt_support_sha256": "1ddae9a9b0de565cc2d0d92bfdbfc1e9fc8776fe633fb546f1f858ddb5ec450b",
+  "rtabg1_contract_sha256": "d0d8439438301eeaa830235b27782a2289fcc60814d8f3841ec3d980594873bb",
+  "sep_included": false,
+  "signal_clock": "pre-existing conservative Minutes availability bridges",
+  "signal_selection": false,
+  "signals": [
+    "QDISC",
+    "VERBOSITY",
+    "SALIENCE",
+    "BOR",
+    "INSURANCE"
+  ],
+  "status": "RTCB1_FROZEN_TEST_CONTRACT",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "test_fits_run": false
+}

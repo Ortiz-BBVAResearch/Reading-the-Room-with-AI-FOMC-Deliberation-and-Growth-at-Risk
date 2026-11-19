@@ -1,0 +1,26 @@
+{
+  "contract_sha256": "bc1d578fb1c91938e4f30d12f70bf8edae2af19cb8652635bfc17a109c972190",
+  "families": [
+    "REAL",
+    "NOMINAL",
+    "CREDIT_RATES",
+    "MARKETS"
+  ],
+  "fixed_lambda": 0.5623413251903491,
+  "lambda_selection": false,
+  "n_origins": 70,
+  "new_forecasts": false,
+  "per_tau_sha256": "81f211789b68e49ab2bef4b2857b36c0ec087cd084102e16416569666609036c",
+  "performance": "FIRST_OPEN",
+  "reestimation": false,
+  "status": "REVIEW21_FIXED_LAMBDA_M3_LOWER_FIRST_OPEN_COMPLETE",
+  "summary_sha256": "afde032d087a1e53371762cc506a41b169e956d54b24af34da688d065f2712cf",
+  "target_sha256": "20197597b337854c086175941e9d3c37d01b69de81502f10e2ad41dec632b8cc",
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25
+  ]
+}

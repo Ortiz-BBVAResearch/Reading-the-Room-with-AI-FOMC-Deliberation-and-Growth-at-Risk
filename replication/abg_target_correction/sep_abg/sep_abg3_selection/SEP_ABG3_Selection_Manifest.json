@@ -1,0 +1,15 @@
+{
+  "design_sha256": "dae72bfb1665175d0c9fc9451efbcf991197c5a3813e1b9cad0a36fb8936f5ad",
+  "lambda_vector_sha256": "9ef2728187177080393b850442012e4b9d88e61635b700389f9a239578f67cb5",
+  "n_selected_lambdas": 38,
+  "n_signals": 2,
+  "n_taus": 19,
+  "n_validation": 12,
+  "selection_rule": "minimum mean validation pinball; ties smaller lambda",
+  "status": "SEP_ABG3_LAMBDAS_FROZEN",
+  "test_accessed": false,
+  "validation_end": "2014Q4",
+  "validation_performance_accessed": true,
+  "validation_start": "2012Q1",
+  "validation_worker_sha256": "c4d0b9152d90345ce788d8426685ae91c970ccb46bb3f59131309ddf41ddd867"
+}

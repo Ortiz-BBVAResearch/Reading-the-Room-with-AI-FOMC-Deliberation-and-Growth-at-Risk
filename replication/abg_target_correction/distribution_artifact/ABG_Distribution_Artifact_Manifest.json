@@ -1,0 +1,42 @@
+{
+  "crossing_diagnostic": {
+    "M2": {
+      "origins_total": 70,
+      "origins_with_crossing": 26
+    },
+    "M2_HD": {
+      "origins_total": 70,
+      "origins_with_crossing": 28
+    },
+    "M3": {
+      "origins_total": 70,
+      "origins_with_crossing": 40
+    },
+    "M3_HD": {
+      "origins_total": 70,
+      "origins_with_crossing": 39
+    }
+  },
+  "density_smoothing": false,
+  "long_rows": 5320,
+  "long_sha256": "247107dddb622fbe942a430b93a3cb483675ff26303f8d243c7e6b35a249c848",
+  "models": {
+    "M2": "R2",
+    "M2_HD": "R2_HD",
+    "M3": "R2_NFCI",
+    "M3_HD": "R2_NFCI_HD"
+  },
+  "n_models": 4,
+  "n_origins": 70,
+  "n_taus": 19,
+  "new_fits": false,
+  "new_inference": false,
+  "performance_computed": false,
+  "quantile_rearrangement": false,
+  "scientific_source": "ABG4 sealed primary forecasts",
+  "status": "EXTRACTION_COMPLETE",
+  "target": "ABG_H4_AVERAGE_NEXT4",
+  "wide_rows": 1330,
+  "wide_sha256": "aff5b4620d080625cbbf753070acc96f00d156d32e8ef26ca54f78b2f7599711",
+  "y_realized_definition": "realized ABG target associated with forecast target quarter"
+}

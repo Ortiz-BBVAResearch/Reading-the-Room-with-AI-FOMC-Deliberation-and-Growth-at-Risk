@@ -1,0 +1,25 @@
+{
+  "M3_definition": "matched public FRED-MD + NFCI_AVAILABLE",
+  "availability_selection": false,
+  "block_sha256": "866380ad66fb7238a9d8d005d4227a356936e3ee2d3ade27c9b526fa75ef97c8",
+  "blocks": [
+    "ALL19",
+    "LOWER",
+    "CENTER",
+    "UPPER"
+  ],
+  "comparison": "M3 vs M3+HD",
+  "data_arms": [
+    "FINAL_MATCHED",
+    "REALTIME_MATCHED"
+  ],
+  "differentials_sha256": "67e313a78a0a70fb6f1ac3eebd74793128e6f5f0943cd9ea90a67e07036a67ba",
+  "lambda_selection": false,
+  "n_targets": 70,
+  "n_taus": 19,
+  "new_forecasts": false,
+  "performance_accessed": true,
+  "reestimation": false,
+  "status": "RTNFCI5_FIRST_OPEN_COMPLETE",
+  "tau_sha256": "ceeffb6c2ec2889b38ccf38fdf7606f58b5729478dae55145a7ec7b0bf1f6daa"
+}

@@ -1,0 +1,17 @@
+{
+  "blocks": [
+    "ALL19",
+    "LOWER",
+    "CENTER",
+    "UPPER"
+  ],
+  "endpoint_selection": false,
+  "family": "SPF_GPR_EPU_VIX_OIL",
+  "hypotheses_per_block": 5,
+  "input_p": "p_one_sided_HLN_improve",
+  "input_sha256": "47cbb9d1e4b12c50e5b85d0c86c6999bca4636744c02a7eb4c056027fa68e0ca",
+  "new_forecasts": false,
+  "output_sha256": "f1fc04a85f7eeca00082b308df55f767e5c6610aaea566b9748461b511ea58d1",
+  "re_estimation": false,
+  "status": "EXTERNAL_BENCHMARKS_HOLM_COMPLETE"
+}

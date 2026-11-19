@@ -1,0 +1,22 @@
+{
+  "blocks": 4,
+  "central_sha256": "f4e51be91f0ffd15c42abe3ec07f468cb06f073e9c59f0a0e5c46bceeb364e4a",
+  "clock_sha256": "e74a82675f346a764deb78def818d2559e29b6446717ba2e0c37755b0ec7b46b",
+  "contract_sha256": "4913b914f61cdb379f9508c2e95f90c2deaa9600b11c6570e4320a6943cb8b7c",
+  "event_selection": false,
+  "events": 8,
+  "external_sha256": "b5e5f4a1e98e48cfea444e3d719a9757ae8fdc5f45ebbfb4f64e4953b0eb3f8f",
+  "lambda_selection": false,
+  "new_forecasts": false,
+  "new_losses": false,
+  "reconstruction_rows": 52,
+  "reconstruction_sha256": "be0b6e2297c90b3a14091e0c16888d1e035d2b1d024815736673924acfa5dc3b",
+  "reestimation": false,
+  "result_rows": 416,
+  "result_sha256": "a8db3f72f99a2aa2f13321a19cc19cbde8338cf54906c940fd69d200f176dfd6",
+  "signal_selection": false,
+  "signals": 13,
+  "status": "REVIEW23_EVENT_HORSERACE_FIRST_OPEN_COMPLETE",
+  "target_rows": 3640,
+  "target_sha256": "26a2315a38e9b578f637e32581cbfe16d53d9eebf7643e60a089d81a3c4583bb"
+}

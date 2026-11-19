@@ -1,0 +1,22 @@
+{
+  "bootstrap_lengths": [
+    4,
+    6,
+    8
+  ],
+  "bootstrap_reps": 10000,
+  "common_benchmark": "REALTIME_M3_R2_NFCI",
+  "contrast": "HD_d_MINUS_ALTERNATIVE_d",
+  "hac_lag": 3,
+  "horizon": 4,
+  "mbb_sha256": "07bf8ceae58143523a7ada008dccd7c4727c2f8a64a1f1954a1a91426cf68332",
+  "negative_delta": "HD_LOWER_INCREMENTAL_PINBALL_LOSS",
+  "new_forecasts": false,
+  "new_losses": false,
+  "paired_sha256": "afa066d24e3552421759c8e0d09f0c5a7d7e3d041a554dbdf80dfd527912e6c9",
+  "re_estimation": false,
+  "results_sha256": "29dae590fc2f5bdff58cc4dde1955ae5b473d5a77eb6b755c9c6606be6cf3af9",
+  "seed": 20260917,
+  "source_sha256": "f798fcc4058ead86bff6d24476dc4271bdf3a225eea5441118feee3207c26bd0",
+  "status": "RTM3CB7_HD_PAIRED_HORSERACE_COMPLETE"
+}

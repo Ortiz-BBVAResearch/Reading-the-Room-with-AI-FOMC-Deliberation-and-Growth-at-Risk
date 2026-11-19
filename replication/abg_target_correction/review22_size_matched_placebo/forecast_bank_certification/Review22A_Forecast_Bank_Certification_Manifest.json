@@ -1,0 +1,37 @@
+{
+  "arms": [
+    "BENCHMARK",
+    "PLUS_HD"
+  ],
+  "contract_sha256": "8d8b03ff15bf8fd0216c6816884654fe5f0e8a4986021ee712d4e24fb4e2bff3",
+  "draw_table_sha256": "703c0fb3099c824adaae1a4f478ec27ccf5977172f9bdbac806d59dbdc0ed6c5",
+  "draws_per_size": 40,
+  "finite_actuals": true,
+  "finite_predictions": true,
+  "fixed_lambda": 0.5623413251903491,
+  "forecast_rows": 112000,
+  "jobs": 1600,
+  "lambda_selection": false,
+  "loss_computed": false,
+  "paired_support_identity": true,
+  "performance_accessed": false,
+  "sizes": [
+    4,
+    23,
+    34,
+    62
+  ],
+  "status": "REVIEW22A_FORECAST_BANK_CERTIFIED_PRE_PERFORMANCE",
+  "subsets": 160,
+  "summary_sha256": "f9ee743987ecf60491beed83c0c677daa1d7b2aea495393d43b9c1af18e828b8",
+  "targets_per_job": 70,
+  "taus": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25
+  ],
+  "total_mean_fallbacks": 0,
+  "worker_sha256": "811b4caacc565247de3eb2e3e9c2a23ab7780c111832d5364117407587b6cfb5"
+}

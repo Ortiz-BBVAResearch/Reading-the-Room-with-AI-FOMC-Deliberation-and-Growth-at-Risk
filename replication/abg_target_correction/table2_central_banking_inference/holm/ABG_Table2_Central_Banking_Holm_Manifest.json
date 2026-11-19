@@ -1,0 +1,35 @@
+{
+  "alternative": "challenger improves",
+  "blocks": [
+    "ALL19",
+    "LOWER",
+    "CENTER",
+    "UPPER"
+  ],
+  "endpoint_selection": false,
+  "family_definition": "separate Holm family within each block",
+  "general_family": [
+    "Hidden Dissent",
+    "Quantifier discount",
+    "Balance of risks",
+    "Salience of growth",
+    "Insurance motive",
+    "Verbosity",
+    "NFCI",
+    "Hidden Dissent added to M2+NFCI"
+  ],
+  "general_family_size": 8,
+  "holm_output_sha256": "d121ade06a03a66d01b4e185e04aa76d6614decca8027694d1dbeec90efd17ae",
+  "input_sha256": "5cd87cd36e424132e681de16475a9fe35c92fecccad26872037633b7f84145fb",
+  "lambda_selection": false,
+  "new_forecasts": false,
+  "primary_endpoints": "ABG-6 remains confirmatory; this Holm analysis is secondary",
+  "raw_p": "p_one_sided_HLN_improve",
+  "re_estimation": false,
+  "sep_family": [
+    "SEP risk weighting",
+    "SEP uncertainty"
+  ],
+  "sep_family_size": 2,
+  "status": "TABLE2_CENTRAL_BANKING_HOLM_COMPLETE"
+}

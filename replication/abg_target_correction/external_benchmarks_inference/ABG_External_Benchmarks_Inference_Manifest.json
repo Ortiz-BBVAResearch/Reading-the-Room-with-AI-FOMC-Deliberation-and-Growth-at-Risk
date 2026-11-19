@@ -1,0 +1,28 @@
+{
+  "HAC_lag": 3,
+  "HLN_horizon": 4,
+  "MBB_B": 10000,
+  "MBB_block_length": 4,
+  "MBB_seed": 20260915,
+  "N": 70,
+  "detail_sha256": "47cbb9d1e4b12c50e5b85d0c86c6999bca4636744c02a7eb4c056027fa68e0ca",
+  "endpoint_selection": false,
+  "family": [
+    "SPF",
+    "GPR",
+    "EPU",
+    "VIX",
+    "OIL"
+  ],
+  "inference_accessed": true,
+  "inference_unit": "target-level loss differential after averaging across taus within each block",
+  "lambda_selection": false,
+  "n_blocks": 4,
+  "n_hypotheses_per_block": 5,
+  "n_inference_rows": 20,
+  "new_forecasts": false,
+  "re_estimation": false,
+  "status": "EXTERNAL_BENCHMARKS_INFERENCE_COMPLETE",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "target_sha256": "b5e5f4a1e98e48cfea444e3d719a9757ae8fdc5f45ebbfb4f64e4953b0eb3f8f"
+}

@@ -1,0 +1,33 @@
+{
+  "bridge_sha256": {
+    "BOR": "f1dd7c780c57267e339cc86b4029c8006b7cd84270957cd5be693e2b2d5b8f2c",
+    "INSURANCE": "b75335983d88d3a5774d387a972615202b84d59cf72e6756675b1cbfb5f26966",
+    "SALIENCE": "f6a3e6a055596920dd6f6edb9955c97ec5c2f08c80e2a9750ea5ec87a02c00b4"
+  },
+  "contract_sha256": "6870bb9cdb293260a806a838768e08d8f2030bc979198872459d98f57cf5f143",
+  "dependent_contract": "Y4[t+4]=mean(g[t+1:t+4])",
+  "focal_first_available": "1994Q2",
+  "forecasts_estimated": false,
+  "gdp_regressor_contract": "GDP_GROWTH_CURRENT[t]=g[t]",
+  "lambda_selected": false,
+  "models": [
+    "ABG8_PUBLIC_SALIENCE",
+    "ABG8_PUBLIC_BOR",
+    "ABG8_PUBLIC_INSURANCE"
+  ],
+  "n_models": 3,
+  "n_origins": 70,
+  "n_rows": 3990,
+  "n_taus": 19,
+  "origin_end": "2025Q1",
+  "origin_start": "2007Q4",
+  "performance_accessed": false,
+  "selected_lambdas": {
+    "CENTER": 100.0,
+    "LOWER": 0.5623413251903491,
+    "UPPER": 100.0
+  },
+  "source_contract_sha256": "d0d8439438301eeaa830235b27782a2289fcc60814d8f3841ec3d980594873bb",
+  "status": "ABG8_SBI_CONTRACT_FROZEN",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4"
+}

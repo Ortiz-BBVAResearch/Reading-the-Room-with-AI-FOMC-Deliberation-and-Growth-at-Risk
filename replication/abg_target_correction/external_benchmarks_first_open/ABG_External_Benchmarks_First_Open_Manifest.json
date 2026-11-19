@@ -1,0 +1,30 @@
+{
+  "covid_targets_removed": [
+    "2020Q1",
+    "2020Q2",
+    "2020Q3"
+  ],
+  "endpoint_selection": false,
+  "ex_pandemic_N": 67,
+  "external_signals": [
+    "SPF dispersion",
+    "Geopolitical risk (GPR)",
+    "Economic policy uncertainty (EPU)",
+    "VIX",
+    "Oil price"
+  ],
+  "full_test_N": 70,
+  "lambda_selection": false,
+  "new_forecasts": false,
+  "performance_accessed": true,
+  "re_estimation": false,
+  "reference_rows": [
+    "Hidden Dissent",
+    "Hidden Dissent added to M2+NFCI"
+  ],
+  "status": "EXTERNAL_BENCHMARKS_FIRST_OPEN_COMPLETE",
+  "table_sha256": "7964de46cdb278e3dcd4d84946a316828778bfd4e443667dc647f709b9ed7796",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "tau_detail_sha256": "a76bbb3e9daba98a6e2fb647ef47f0fb669d1b4caccdcde1b00388445ca21f53",
+  "window_selection": false
+}

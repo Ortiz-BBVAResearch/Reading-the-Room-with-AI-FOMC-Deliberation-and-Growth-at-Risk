@@ -1,0 +1,23 @@
+{
+  "X_sha256": "0d9b6f4a84574eda859c412b59e9760500f9fef464742449473d4f5b1584b213",
+  "abg1_target_sha256": "60f8894a9b57b7dade9c723944a1e0e0b5eebdfeba01ebb4d6e99ba5b8af6f9a",
+  "abg2_design_sha256": "6ab232e2254f31369ae6b37ca72b21d24dbb217e738550e81b6d3185c10bd5dd",
+  "abg2_witness_sha256": "89be3429f35d077596ccf4a465d1c7c9edae58e53a8aa9aad083776204a445f2",
+  "detail_sha256": "7c57719e1d2336a94cef49939c79255f88d6bfc7a95fcaccdc8c022b919e5748",
+  "elapsed_seconds": 149.2223448753357,
+  "final_n_train": 131,
+  "freeze_sha256": "c3846306e759eb6c0de30e6dd93c2a51dae4b4550d54075003bf0899016883f1",
+  "horizon": 4,
+  "initial_n_train": 40,
+  "lambda_mean": 31.622776601683793,
+  "lambda_selection": false,
+  "n_nuisance": 123,
+  "n_validation": 92,
+  "nuisance_columns_sha256": "1be7327b6d47c0477a1db78c7f36265533c5d3018d890f41214094c722d734fd",
+  "status": "COMPLETE",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "tau": 0.1,
+  "test_accessed": false,
+  "validation_end": "2007Q3",
+  "validation_start": "1984Q4"
+}

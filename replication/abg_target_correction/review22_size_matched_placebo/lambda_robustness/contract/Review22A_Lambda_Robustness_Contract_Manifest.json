@@ -1,0 +1,31 @@
+{
+  "A1_draw_sha256": "703c0fb3099c824adaae1a4f478ec27ccf5977172f9bdbac806d59dbdc0ed6c5",
+  "A2_contract_sha256": "8d8b03ff15bf8fd0216c6816884654fe5f0e8a4986021ee712d4e24fb4e2bff3",
+  "N62_subsets_sha256": "2adebc2626bb4ffd40bff74d91531b9a11feee5426ad2428821409e51af1dc34",
+  "REAL_structural_N": 62,
+  "contract_level": "forecast_job",
+  "contract_sha256": "d0ff1e37f8177353b575ea31cf3c4a1b4de4e95b053b92e11c3c634c7f3c56a7",
+  "forecasts_generated": false,
+  "jobs_per_lambda": 420,
+  "jobs_total": 840,
+  "lambda_0": 0.5623413251903491,
+  "lambda_DOUBLE": 1.1246826503806981,
+  "lambda_HALF": 0.28117066259517454,
+  "lambda_selection": false,
+  "losses_computed": false,
+  "model_selection": false,
+  "new_placebo_draws": false,
+  "objects": [
+    "FULL_M3",
+    "REAL",
+    "PLACEBO_N62"
+  ],
+  "performance_accessed": false,
+  "placebo_draws": 40,
+  "planned_forecasts": 58800,
+  "same_N62_placebo_draws": true,
+  "status": "REVIEW22A_A8_1_LAMBDA_ROBUSTNESS_CONTRACT_FROZEN",
+  "structural_universe_N": 123,
+  "targets_per_job": 70,
+  "universe_sha256": "daa3873c4664155f92961a07b3f6c48df0f1406d4c85254884c998d99920e176"
+}

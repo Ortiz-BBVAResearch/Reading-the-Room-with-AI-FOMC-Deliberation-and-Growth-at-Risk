@@ -1,0 +1,19 @@
+{
+  "abg3_lambda_vector_sha256": "746074bbd1a756c5274cbf5c8328ba690919c118bf41d6ead167610394ca5ed3",
+  "ancestor_b4_sha256": "34e60035a8dd3843c8208a37ae55cba63dac52546c67349f307b26b8959120b8",
+  "changed_field": "lambda_mean",
+  "changed_rows": 1400,
+  "contract_sha256": "d0d8439438301eeaa830235b27782a2289fcc60814d8f3841ec3d980594873bb",
+  "forecasts_estimated": false,
+  "lambda_center": 100.0,
+  "lambda_lower": 0.5623413251903491,
+  "lambda_upper": 100.0,
+  "n_models": 4,
+  "n_origins": 70,
+  "n_rows": 5320,
+  "n_taus": 19,
+  "performance_accessed": false,
+  "status": "ABG4_TEST_CONTRACT_FROZEN",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "test_outcomes_accessed": false
+}

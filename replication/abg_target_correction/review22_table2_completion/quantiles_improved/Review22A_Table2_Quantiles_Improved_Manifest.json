@@ -1,0 +1,14 @@
+{
+  "definition": "count_tau(challenger_mean_loss < benchmark_mean_loss)",
+  "existing_nonmissing_counts_checked": 10,
+  "lambda_selection": false,
+  "measures": 10,
+  "new_forecasts": false,
+  "new_losses": false,
+  "output_sha256": "94941d022f913e20dd95c76f7c2426395a4ef859c31e94d5dc490b6b68c6d502",
+  "per_tau_sha256": "ed8a7c473c0d18491849abfc0f655fbef003e2dad4bc6f6a9f3ba5293107b3e0",
+  "quantiles_total": 19,
+  "reestimation": false,
+  "status": "REVIEW22A_QUANTILES_IMPROVED_COMPLETE",
+  "table2_sha256": "2020b60384db9925ec015957d250cd775ee84c6911c4245dd54fdea1b91060f2"
+}

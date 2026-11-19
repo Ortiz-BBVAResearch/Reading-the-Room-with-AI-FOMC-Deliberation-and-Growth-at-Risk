@@ -1,0 +1,39 @@
+{
+  "abg10_source_sha256": "cba25ada42e6e2c0932072f0f60ce9b1a2f65cb2beeff91a05e3dbcc30ae13b2",
+  "abg9_source_sha256": "5dc15b4d1717893c433080b296aa41a1684f113c62c1ad2f2ac8f68de5a69147",
+  "actuals_accessed": false,
+  "availability_selected": false,
+  "benchmark": "REALTIME_MATCHED_R2",
+  "contract_sha256": "151819cff4de1bd11e7e1fc81d2ddbe3d7a8395c9f728e196d4aa12d52dc623b",
+  "data_arm": "REALTIME_MATCHED",
+  "experiment_family": "REALTIME_EXTERNAL_BENCHMARK_EXTENSION",
+  "focal_first_available": {
+    "EPU": "1994Q2",
+    "GPR": "1994Q2",
+    "OIL": "1986Q1",
+    "SPF": "1994Q2",
+    "VIX": "1990Q1"
+  },
+  "forecasts_estimated": false,
+  "gain_computed": false,
+  "lambda_selected": false,
+  "loss_computed": false,
+  "n_origins": 70,
+  "n_rows": 6650,
+  "n_signals": 5,
+  "n_taus": 19,
+  "origin_end": "2025Q1",
+  "origin_start": "2007Q4",
+  "performance_accessed": false,
+  "predictions_accessed": false,
+  "rtabg_source_sha256": "d0d8439438301eeaa830235b27782a2289fcc60814d8f3841ec3d980594873bb",
+  "signal_selected": false,
+  "signals": [
+    "SPF",
+    "GPR",
+    "EPU",
+    "VIX",
+    "OIL"
+  ],
+  "status": "RTEXT1_EXTERNAL_REALTIME_CONTRACT_FROZEN"
+}

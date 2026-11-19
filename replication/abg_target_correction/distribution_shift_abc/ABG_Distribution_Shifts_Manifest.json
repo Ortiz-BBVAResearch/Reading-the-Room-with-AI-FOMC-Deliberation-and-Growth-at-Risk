@@ -1,0 +1,22 @@
+{
+  "actuals_used": false,
+  "event_provenance_sha256": "ee5bc3b1d3c9729e84ab7f7c609fb8a464b0178e9c56edc73817e76aba495d6e",
+  "event_selection": false,
+  "event_sha256": "d5dd66f3ee425d65769a7848b88a2d467df152b797a557ee564217293d8db598",
+  "event_variant": "ORIGINAL",
+  "global_sha256": "39f15e7a0fb4e06d8c37df29c0490398fcdc50670323db1f85ae495805599b90",
+  "lambda_selection": false,
+  "losses_computed": false,
+  "master_rows": 15960,
+  "master_sha256": "e9fbc0802d66375ed24474da150da94acbfe85a1c285f4389d191f430127f9ec",
+  "new_forecasts": false,
+  "performance_measure": false,
+  "quantity": "challenger predicted quantile minus benchmark predicted quantile",
+  "re_estimation": false,
+  "signals": 12,
+  "status": "ABG_DISTRIBUTION_SHIFT_ABC_COMPLETE",
+  "target_sha256": "c23d5f5c307cff0a05407513c7f436aa9d1131a4cf10124ea44ad927dd9aaa07",
+  "targets": 70,
+  "taus": 19,
+  "units": "percentage_points_predicted_GDP_growth"
+}
