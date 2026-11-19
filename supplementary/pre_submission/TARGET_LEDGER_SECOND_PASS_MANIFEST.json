@@ -1,0 +1,45 @@
+{
+  "status": "TARGET_LEDGER_SECOND_PASS_COMPLETE_FROM_SOURCE_BANKS_AND_METADATA",
+  "no_models_estimated": true,
+  "no_forecast_banks_modified": true,
+  "table6_recalculated_from_sealed_forecasts": true,
+  "table6_match_to_published_3dp": true,
+  "table6_target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "table6_events": 32,
+  "table6_non_events": 38,
+  "table6_winning_targets_all19": {
+    "events": "23/32",
+    "non_events": "30/38"
+  },
+  "table6_inference": "Not added: recalculated values match the manuscript at three decimals, so the request condition for a mismatch inference did not apply.",
+  "outputs": {
+    "TABLE6_EVENT_WINDOWS_RECALCULATED.csv": "eb2f85a3400a04e6c67a3f9d1e6a9f3e0e08f8a8834c8a644981a6091e1583e5",
+    "PAPER_OBJECTIVE_LEDGER.csv": "6e8db619216f00a26c928cbb26d51844f5700e5b463ac023f80a8f0cc5f5ae01",
+    "penalties_by_family.csv": "33a8469a3093384f800c702b6b04522705991cfd2f62caf75cc4358ece39217c",
+    "TABLES45_SOURCE_AUDIT.csv": "bf50a57bcaeb278e299d460dccef35240d33425c3100e0a0f901d6a275dd3fdc"
+  },
+  "source_hashes": {
+    "outputs/sa6/abg_target_correction/abg4_sealed_test/checkpoints/R2_Q05_meta.json": "c168962b7190b0e9f680438fc994a7262c8ea1188dc60df18db2fb041d649de5",
+    "outputs/sa6/abg_target_correction/abg4_sealed_test/checkpoints/R2_HD_Q05_meta.json": "b43e814a5447138dc4fc3396f1fb5645dd3b53be9e202d77dc837f2a8eadf712",
+    "outputs/sa6/abg_target_correction/event_anatomy/ABG_EVENT2_First_Open_Manifest.json": "55dbf623a284c4e6011cd8a7efeeb91130ef996fc8a198f1186fcd9b259f112e",
+    "outputs/sa6/realtime_fredmd/rt0w_frozen_manifest/RT0W_Frozen_Design_Contract.txt": "69eb452ffd79709700d182815d61ed28f9098967d337a7b9817f6d40bc88412d",
+    "outputs/sa6/abg_target_correction/rtext2_realtime_external/checkpoints/REALTIME_MATCHED_GPR_Q05_meta.json": "1432e744ecfee2c563648b07d4c90b45bc49228e55197ec130b6a98425f28439",
+    "outputs/sa6/construct_validation/review25/c1b2a_ah_sealed_forecasts/checkpoints/R2_AH_Q05_meta.json": "6bbde963535ca7555d075086d652ce2f3644a0bc94b999321655a021deff98d3",
+    "outputs/sa6/abg_target_correction/rtabg2_realtime_fredmd/checkpoints/REALTIME_MATCHED_PUBLIC_Q05_meta.json": "355ee25bf8cef2a3e3bf0d58073908a54e03d91190f63efd51b93085c783493a",
+    "outputs/sa6/abg_target_correction/rtnfci2_realtime_fredmd_nfci/checkpoints/REALTIME_MATCHED_PUBLIC_Q05_meta.json": "e4023ff50e441666e6e2df6b09fcba74986e9e52474b9715adfc8dda85693903",
+    "outputs/sa6/realtime_gdp/gdprt9_sealed_test/checkpoints/REALTIME_MATCHED_NFCI_HD_Q05_meta.json": "ef496e68e2cc9192268998177729da33a98758ead4c6e345b1a3c75612e2ba6b"
+  },
+  "tables45_source_audit": {
+    "status": "EQ1B_CORRECTED_BANKS_MATCH_STANDARD_CELLS; GDP_VINTAGE_ROW_UNMATCHED",
+    "models_estimated": false,
+    "rt0w_legacy_matches": false,
+    "corrected_eq1b_matches_standard_table4_cells": true,
+    "gdp_vintage_gain_observed_percent": 4.013734678027392,
+    "gdp_vintage_published_percent": 4.901,
+    "gdp_vintage_difference_pp": -0.8872653219726079,
+    "target_contract_corrected_family": "ABG_H4_AVERAGE_NEXT4",
+    "training_history_start": "1973Q1",
+    "first_origin": "2007Q4",
+    "first_training_n": 136
+  }
+}

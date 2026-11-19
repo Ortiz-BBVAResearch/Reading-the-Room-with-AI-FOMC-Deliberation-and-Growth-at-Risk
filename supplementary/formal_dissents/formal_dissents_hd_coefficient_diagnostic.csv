@@ -1,0 +1,5 @@
+block,median_HD_coefficient_ratio,sign_changes,status,reason
+ALL19,,,not_recoverable_without_refitting_read_only_R2_HD_bank,"sealed forecast checkpoints store predictions, not coefficient vectors"
+LOWER,,,not_recoverable_without_refitting_read_only_R2_HD_bank,"sealed forecast checkpoints store predictions, not coefficient vectors"
+CENTER,,,not_recoverable_without_refitting_read_only_R2_HD_bank,"sealed forecast checkpoints store predictions, not coefficient vectors"
+UPPER,,,not_recoverable_without_refitting_read_only_R2_HD_bank,"sealed forecast checkpoints store predictions, not coefficient vectors"

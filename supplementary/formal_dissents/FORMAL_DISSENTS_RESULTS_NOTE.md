@@ -1,0 +1,8 @@
+# Votos disidentes formales — resultados (added after the design; descriptive)
+
+Interpretación resumida: Los votos no mejoran la previsión de forma distinguible de cero; Hidden Dissent conserva ganancia condicional. Se reportan todas las celdas; lectura post-diseño descriptiva, sin Holm.
+Las cuatro comparaciones principales se reportan por ALL19, LOWER, CENTER y UPPER en `formal_dissents_results.csv`; la inferencia usa HAC Bartlett lag 3, HLN t con N−1 grados de libertad, y MBB B=10.000 con L=4, 6 y 8. No se aplica Holm.
+Las tablas de ganancia por bloque están en `formal_dissents_table2_rows.csv` (A, E, F, G) y `formal_dissents_table5_rows.csv` (comparaciones C:A y D:B). Las adiciones de votos sobre M2+HD y M3+HD están en `formal_dissents_descriptive_blocks.csv`.
+El Excel de St. Louis provisto por el usuario declara actualización 2026-10-30; se recibió en este espacio el 2026-11-13 (la fecha original de descarga no figura en el archivo). Comparado con la copia del repositorio actualizada al 2026-09-18, la única fila nueva es la reunión del 2026-10-28, fuera de la muestra. SHA-256 y calendarios/insumos constan en el manifiesto de Fase 0. DISS_SHARE es cero en 31/70 orígenes (44,3%), menos de la mitad.
+El coeficiente de Hidden Dissent de C frente a M2+HD no se recupera de los checkpoints sellados: estos guardan predicciones, pero no coeficientes. Reestimar M2+HD violaría el protocolo de solo lectura; por eso no se calcula la razón ni los cambios de signo. La limitación queda registrada por bloque en `formal_dissents_hd_coefficient_diagnostic.csv`.
+Aviso de potencia: C y D contienen dos regresores focales sin penalizar y solo 70 objetivos solapados. Este ejercicio se añadió después del diseño y es descriptivo.

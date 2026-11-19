@@ -1,0 +1,22 @@
+{
+  "status": "R2_EQ1B_ALREADY_RUN_AND_OPENED; objective ledger metadata audit drafted",
+  "target_contract": "ABG_H4_AVERAGE_NEXT4",
+  "new_forecasts": 2660,
+  "models": 2,
+  "quantiles_per_model": 19,
+  "origins_per_tau": 70,
+  "first_open": "outputs/sa6/construct_validation/review34/a3_r2_eq1b/first_open/REVIEW34_A3_R2_EQ1B_FIRST_OPEN.csv",
+  "inference": [
+    "HAC-HLN",
+    "MBB L=4,6,8; B=10000; seed=20260903"
+  ],
+  "design_freeze_status_text_is_stale": true,
+  "upper_block_coefficient_retention": "not available without paired primary coefficients; no refit performed",
+  "artifacts": {
+    "R2_EQ1B_RESULTS.csv": "d7d1f03f7aef175f5f78f708fd500d3b20ff2013b0cd1e1e410916de03e046a5",
+    "R2_EQ1B_HALF_PAGE.md": "4ffb3bdc76e95c2bcc0083942ad5c8dc90fe77de02508067015e2b91389f6c66",
+    "PAPER_OBJECTIVE_LEDGER.csv": "98750bd5c0c7b6dc49117dccf5f5bd3665a9032ab35e9a84588d95e686bc41ae",
+    "penalties_by_family.csv": "26bed8d58e39d569e47554097e60b1e096fcb51ea20a1fb6841736fc6a1a2726",
+    "PREENVIO_JME.md": "4003484888730cba8b41b29b09214e32186ed802486bbbee6faebca2665d7ecf"
+  }
+}
